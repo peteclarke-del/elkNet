@@ -1,0 +1,11 @@
+services:
+  elknet:
+    build: .
+    ports:
+      - "8667:8080"
+    environment:
+      ELKNET_ADMIN_USER: ${ELKNET_ADMIN_USER:-admin}
+      ELKNET_ADMIN_PASSWORD: ${ELKNET_ADMIN_PASSWORD:-elknet}
+    volumes:
+      - ./storage:/app/storage
+    restart: unless-stopped

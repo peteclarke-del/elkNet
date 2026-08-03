@@ -1,0 +1,5189 @@
+[
+  {
+    "title": "Arcade Soccer",
+    "filename": "ArcadeSoccer_E.uef",
+    "publisher": "4thDimension",
+    "path": "4thDimension/ArcadeSoccer_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "E Type",
+    "filename": "EType_E.uef",
+    "publisher": "4thDimension",
+    "path": "4thDimension/EType_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Holed Out Extra Courses Vol1",
+    "filename": "HoledOutExtraCoursesVol1_E.uef",
+    "publisher": "4thDimension",
+    "path": "4thDimension/HoledOutExtraCoursesVol1_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Holed Out Extra Courses Vol2",
+    "filename": "HoledOutExtraCoursesVol2_E.uef",
+    "publisher": "4thDimension",
+    "path": "4thDimension/HoledOutExtraCoursesVol2_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Holed Out",
+    "filename": "HoledOut_E.uef",
+    "publisher": "4thDimension",
+    "path": "4thDimension/HoledOut_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Inertia",
+    "filename": "Inertia_E.uef",
+    "publisher": "4thDimension",
+    "path": "4thDimension/Inertia_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "White Magic",
+    "filename": "WhiteMagic_E.uef",
+    "publisher": "4thDimension",
+    "path": "4thDimension/WhiteMagic_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Savage Pond Starcade",
+    "filename": "SavagePond-Starcade_E.uef",
+    "publisher": "ASP",
+    "path": "ASP/SavagePond-Starcade_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "The Valley",
+    "filename": "TheValley_E.uef",
+    "publisher": "ASP",
+    "path": "ASP/TheValley_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Frak V11",
+    "filename": "FrakV11_E.uef",
+    "publisher": "Aardvark",
+    "path": "Aardvark/FrakV11_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Frak V2",
+    "filename": "FrakV2_E.uef",
+    "publisher": "Aardvark",
+    "path": "Aardvark/FrakV2_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Zalaga",
+    "filename": "Zalaga_E.uef",
+    "publisher": "Aardvark",
+    "path": "Aardvark/Zalaga_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Acorn User Games Compendium",
+    "filename": "AcornUserGamesCompendium_E.uef",
+    "publisher": "AcornUser",
+    "path": "AcornUser/AcornUserGamesCompendium_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Arcadians German",
+    "filename": "Arcadians-German_E.uef",
+    "publisher": "Acornsoft",
+    "path": "Acornsoft/Arcadians-German_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Arcadians",
+    "filename": "Arcadians_E.uef",
+    "publisher": "Acornsoft",
+    "path": "Acornsoft/Arcadians_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Boxer",
+    "filename": "Boxer_E.uef",
+    "publisher": "Acornsoft",
+    "path": "Acornsoft/Boxer_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Castle Of Riddles",
+    "filename": "CastleOfRiddles_E.uef",
+    "publisher": "Acornsoft",
+    "path": "Acornsoft/CastleOfRiddles_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Chess Acornsoft",
+    "filename": "Chess-Acornsoft_E.uef",
+    "publisher": "Acornsoft",
+    "path": "Acornsoft/Chess-Acornsoft_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Crazy Tracer",
+    "filename": "CrazyTracer_E.uef",
+    "publisher": "Acornsoft",
+    "path": "Acornsoft/CrazyTracer_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "D A R Draughts",
+    "filename": "DAR-Draughts_E.uef",
+    "publisher": "Acornsoft",
+    "path": "Acornsoft/DAR-Draughts_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "D A R Reversi",
+    "filename": "DAR-Reversi_E.uef",
+    "publisher": "Acornsoft",
+    "path": "Acornsoft/DAR-Reversi_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Elite",
+    "filename": "Elite_E.uef",
+    "publisher": "Acornsoft",
+    "path": "Acornsoft/Elite_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Firebug",
+    "filename": "Firebug_E.uef",
+    "publisher": "Acornsoft",
+    "path": "Acornsoft/Firebug_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Free Fall German",
+    "filename": "FreeFall-German_E.uef",
+    "publisher": "Acornsoft",
+    "path": "Acornsoft/FreeFall-German_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Freefall",
+    "filename": "Freefall_E.uef",
+    "publisher": "Acornsoft",
+    "path": "Acornsoft/Freefall_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Go",
+    "filename": "Go_E.uef",
+    "publisher": "Acornsoft",
+    "path": "Acornsoft/Go_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Hopper",
+    "filename": "Hopper_E.uef",
+    "publisher": "Acornsoft",
+    "path": "Acornsoft/Hopper_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Magic Mushrooms",
+    "filename": "MagicMushrooms_E.uef",
+    "publisher": "Acornsoft",
+    "path": "Acornsoft/MagicMushrooms_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Maze",
+    "filename": "Maze_E.uef",
+    "publisher": "Acornsoft",
+    "path": "Acornsoft/Maze_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Meteors German",
+    "filename": "Meteors-German_E.uef",
+    "publisher": "Acornsoft",
+    "path": "Acornsoft/Meteors-German_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Meteors",
+    "filename": "Meteors_E.uef",
+    "publisher": "Acornsoft",
+    "path": "Acornsoft/Meteors_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Monsters",
+    "filename": "Monsters_E.uef",
+    "publisher": "Acornsoft",
+    "path": "Acornsoft/Monsters_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Philosophers Quest",
+    "filename": "PhilosophersQuest_E.uef",
+    "publisher": "Acornsoft",
+    "path": "Acornsoft/PhilosophersQuest_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Planetoid German",
+    "filename": "Planetoid-German_E.uef",
+    "publisher": "Acornsoft",
+    "path": "Acornsoft/Planetoid-German_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Planetoid",
+    "filename": "Planetoid_E.uef",
+    "publisher": "Acornsoft",
+    "path": "Acornsoft/Planetoid_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Snapper",
+    "filename": "Snapper_E.uef",
+    "publisher": "Acornsoft",
+    "path": "Acornsoft/Snapper_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Snooker Acornsoft",
+    "filename": "Snooker-Acornsoft_E.uef",
+    "publisher": "Acornsoft",
+    "path": "Acornsoft/Snooker-Acornsoft_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Sphinx Adventure",
+    "filename": "SphinxAdventure_E.uef",
+    "publisher": "Acornsoft",
+    "path": "Acornsoft/SphinxAdventure_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Starship Command German",
+    "filename": "StarshipCommand-German_E.uef",
+    "publisher": "Acornsoft",
+    "path": "Acornsoft/StarshipCommand-German_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Starship Command",
+    "filename": "StarshipCommand_E.uef",
+    "publisher": "Acornsoft",
+    "path": "Acornsoft/StarshipCommand_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Boffin2modified",
+    "filename": "Boffin2-modified_BE.uef",
+    "publisher": "Addictive",
+    "path": "Addictive/Boffin2-modified_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "Football Manager",
+    "filename": "FootballManager_E.uef",
+    "publisher": "Addictive",
+    "path": "Addictive/FootballManager_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Adv1 Adventureland",
+    "filename": "Adv1-Adventureland_E.uef",
+    "publisher": "Adventuresoft",
+    "path": "Adventuresoft/Adv1-Adventureland_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Adv10 Savage Island Part One",
+    "filename": "Adv10-SavageIslandPartOne_E.uef",
+    "publisher": "Adventuresoft",
+    "path": "Adventuresoft/Adv10-SavageIslandPartOne_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Adv11 Savage Island Part Two",
+    "filename": "Adv11-SavageIslandPartTwo_E.uef",
+    "publisher": "Adventuresoft",
+    "path": "Adventuresoft/Adv11-SavageIslandPartTwo_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Adv12 Golden Voyage",
+    "filename": "Adv12-GoldenVoyage_E.uef",
+    "publisher": "Adventuresoft",
+    "path": "Adventuresoft/Adv12-GoldenVoyage_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Adv13 Sorceror Claymorgue Castle",
+    "filename": "Adv13-SorcerorClaymorgueCastle_E.uef",
+    "publisher": "Adventuresoft",
+    "path": "Adventuresoft/Adv13-SorcerorClaymorgueCastle_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Adv15 Buckaroo Banzai S C O O P S",
+    "filename": "Adv15-BuckarooBanzai-SCOOPS_RUN_E.uef",
+    "publisher": "Adventuresoft",
+    "path": "Adventuresoft/Adv15-BuckarooBanzai-SCOOPS_RUN_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Adv2 Pirate Adventure S C O O P S",
+    "filename": "Adv2-PirateAdventure-SCOOPS_RUN_E.uef",
+    "publisher": "Adventuresoft",
+    "path": "Adventuresoft/Adv2-PirateAdventure-SCOOPS_RUN_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Adv3 Secret Mission",
+    "filename": "Adv3-SecretMission_E.uef",
+    "publisher": "Adventuresoft",
+    "path": "Adventuresoft/Adv3-SecretMission_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Adv4 Voodoo Castle S C O O P S",
+    "filename": "Adv4-VoodooCastle-SCOOPS_RUN_E.uef",
+    "publisher": "Adventuresoft",
+    "path": "Adventuresoft/Adv4-VoodooCastle-SCOOPS_RUN_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Adv4 Voodoo Castle",
+    "filename": "Adv4-VoodooCastle_E.uef",
+    "publisher": "Adventuresoft",
+    "path": "Adventuresoft/Adv4-VoodooCastle_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Adv5 The Count",
+    "filename": "Adv5-TheCount_E.uef",
+    "publisher": "Adventuresoft",
+    "path": "Adventuresoft/Adv5-TheCount_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Adv6 Strange Odyssey S C O O P S",
+    "filename": "Adv6-StrangeOdyssey-SCOOPS_RUN_E.uef",
+    "publisher": "Adventuresoft",
+    "path": "Adventuresoft/Adv6-StrangeOdyssey-SCOOPS_RUN_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Adv6 Strange Odysseyalt",
+    "filename": "Adv6-StrangeOdyssey-alt_E.uef",
+    "publisher": "Adventuresoft",
+    "path": "Adventuresoft/Adv6-StrangeOdyssey-alt_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Adv6 Strange Odyssey",
+    "filename": "Adv6-StrangeOdyssey_E.uef",
+    "publisher": "Adventuresoft",
+    "path": "Adventuresoft/Adv6-StrangeOdyssey_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Adv7 Mystery Funhouse",
+    "filename": "Adv7-MysteryFunhouse_E.uef",
+    "publisher": "Adventuresoft",
+    "path": "Adventuresoft/Adv7-MysteryFunhouse_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Adv8 Pyramid Of Doom",
+    "filename": "Adv8-PyramidOfDoom_E.uef",
+    "publisher": "Adventuresoft",
+    "path": "Adventuresoft/Adv8-PyramidOfDoom_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Adv9 Ghost Town",
+    "filename": "Adv9-GhostTown_E.uef",
+    "publisher": "Adventuresoft",
+    "path": "Adventuresoft/Adv9-GhostTown_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Gremlins",
+    "filename": "Gremlins_E.uef",
+    "publisher": "Adventuresoft",
+    "path": "Adventuresoft/Gremlins_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Myst Adv1 Golden Baton",
+    "filename": "MystAdv1-GoldenBaton_E.uef",
+    "publisher": "Adventuresoft",
+    "path": "Adventuresoft/MystAdv1-GoldenBaton_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Myst Adv10 Ten Little Indians",
+    "filename": "MystAdv10-TenLittleIndians_E.uef",
+    "publisher": "Adventuresoft",
+    "path": "Adventuresoft/MystAdv10-TenLittleIndians_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Myst Adv11 Waxworks",
+    "filename": "MystAdv11-Waxworks_E.uef",
+    "publisher": "Adventuresoft",
+    "path": "Adventuresoft/MystAdv11-Waxworks_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Myst Adv2 Time Machine",
+    "filename": "MystAdv2-TimeMachine_E.uef",
+    "publisher": "Adventuresoft",
+    "path": "Adventuresoft/MystAdv2-TimeMachine_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Myst Adv3 Arrow Of Death",
+    "filename": "MystAdv3-ArrowOfDeath_E.uef",
+    "publisher": "Adventuresoft",
+    "path": "Adventuresoft/MystAdv3-ArrowOfDeath_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Myst Adv4 Arrow Of Death Part2",
+    "filename": "MystAdv4-ArrowOfDeathPart2_E.uef",
+    "publisher": "Adventuresoft",
+    "path": "Adventuresoft/MystAdv4-ArrowOfDeathPart2_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Myst Adv5 Escape From Pulsar7",
+    "filename": "MystAdv5-EscapeFromPulsar7_E.uef",
+    "publisher": "Adventuresoft",
+    "path": "Adventuresoft/MystAdv5-EscapeFromPulsar7_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Myst Adv6 Circus",
+    "filename": "MystAdv6-Circus_E.uef",
+    "publisher": "Adventuresoft",
+    "path": "Adventuresoft/MystAdv6-Circus_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Myst Adv8 Wizard Of Akyrz",
+    "filename": "MystAdv8-WizardOfAkyrz_E.uef",
+    "publisher": "Adventuresoft",
+    "path": "Adventuresoft/MystAdv8-WizardOfAkyrz_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Myst Adv9 Perseus And Andromeda",
+    "filename": "MystAdv9-PerseusAndAndromeda_E.uef",
+    "publisher": "Adventuresoft",
+    "path": "Adventuresoft/MystAdv9-PerseusAndAndromeda_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Questprobe Human Torch The Thing",
+    "filename": "QuestprobeHumanTorchTheThing_E.uef",
+    "publisher": "Adventuresoft",
+    "path": "Adventuresoft/QuestprobeHumanTorchTheThing_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Questprobe Spiderman",
+    "filename": "QuestprobeSpiderman_E.uef",
+    "publisher": "Adventuresoft",
+    "path": "Adventuresoft/QuestprobeSpiderman_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Questprobe The Hulk",
+    "filename": "QuestprobeTheHulk_E.uef",
+    "publisher": "Adventuresoft",
+    "path": "Adventuresoft/QuestprobeTheHulk_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Robin Of Sherwood",
+    "filename": "RobinOfSherwood.uef",
+    "publisher": "Adventuresoft",
+    "path": "Adventuresoft/RobinOfSherwood.uef",
+    "enabled": true
+  },
+  {
+    "title": "Blagger",
+    "filename": "Blagger_E.uef",
+    "publisher": "Alligata",
+    "path": "Alligata/Blagger_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Bug Blaster",
+    "filename": "BugBlaster_E.uef",
+    "publisher": "Alligata",
+    "path": "Alligata/BugBlaster_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Contract Bridge",
+    "filename": "ContractBridge_E.uef",
+    "publisher": "Alligata",
+    "path": "Alligata/ContractBridge_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Crown Jewels",
+    "filename": "CrownJewels_E.uef",
+    "publisher": "Alligata",
+    "path": "Alligata/CrownJewels_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Diamond Pete",
+    "filename": "DiamondPete_E.uef",
+    "publisher": "Alligata",
+    "path": "Alligata/DiamondPete_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Fruit Machine Alligata",
+    "filename": "FruitMachine-Alligata_E.uef",
+    "publisher": "Alligata",
+    "path": "Alligata/FruitMachine-Alligata_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Guardian",
+    "filename": "Guardian_E.uef",
+    "publisher": "Alligata",
+    "path": "Alligata/Guardian_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Hell Hole",
+    "filename": "HellHole_E.uef",
+    "publisher": "Alligata",
+    "path": "Alligata/HellHole_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Lunar Rescue",
+    "filename": "LunarRescue_E.uef",
+    "publisher": "Alligata",
+    "path": "Alligata/LunarRescue_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Night World",
+    "filename": "NightWorld_E.uef",
+    "publisher": "Alligata",
+    "path": "Alligata/NightWorld_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Q Bix",
+    "filename": "QBix_E.uef",
+    "publisher": "Alligata",
+    "path": "Alligata/QBix_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Shuffle",
+    "filename": "Shuffle_E.uef",
+    "publisher": "Alligata",
+    "path": "Alligata/Shuffle_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Tarzan Boy",
+    "filename": "TarzanBoy_E.uef",
+    "publisher": "Alligata",
+    "path": "Alligata/TarzanBoy_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Videos Revenge",
+    "filename": "VideosRevenge_E.uef",
+    "publisher": "Alligata",
+    "path": "Alligata/VideosRevenge_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Crazy Erbert",
+    "filename": "CrazyErbert_BE.uef",
+    "publisher": "Alternative",
+    "path": "Alternative/CrazyErbert_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "Dead Or Alive",
+    "filename": "DeadOrAlive_BE.uef",
+    "publisher": "Alternative",
+    "path": "Alternative/DeadOrAlive_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "Graham Gooch Match Cricket A R R",
+    "filename": "GrahamGoochMatchCricket-ARR_E.uef",
+    "publisher": "Alternative",
+    "path": "Alternative/GrahamGoochMatchCricket-ARR_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Grid Iron2",
+    "filename": "GridIron2_BE.uef",
+    "publisher": "Alternative",
+    "path": "Alternative/GridIron2_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "Indoor Soccer",
+    "filename": "IndoorSoccer_BE.uef",
+    "publisher": "Alternative",
+    "path": "Alternative/IndoorSoccer_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "License To Kill",
+    "filename": "LicenseToKill_E.uef",
+    "publisher": "Alternative",
+    "path": "Alternative/LicenseToKill_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Microball",
+    "filename": "Microball_BE.uef",
+    "publisher": "Alternative",
+    "path": "Alternative/Microball_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "Mineshaft A R R",
+    "filename": "Mineshaft-ARR_E.hq.uef",
+    "publisher": "Alternative",
+    "path": "Alternative/Mineshaft-ARR_E.hq.uef",
+    "enabled": true
+  },
+  {
+    "title": "Night Strike",
+    "filename": "NightStrike_E.uef",
+    "publisher": "Alternative",
+    "path": "Alternative/NightStrike_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Rik The Roadie",
+    "filename": "RikTheRoadie_BE.uef",
+    "publisher": "Alternative",
+    "path": "Alternative/RikTheRoadie_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "Round Ones",
+    "filename": "RoundOnes_BE.uef",
+    "publisher": "Alternative",
+    "path": "Alternative/RoundOnes_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "Soccer Boss",
+    "filename": "SoccerBoss_BE.uef",
+    "publisher": "Alternative",
+    "path": "Alternative/SoccerBoss_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "T D1 Day At The Races",
+    "filename": "TD1-DayAtTheRaces_BE.uef",
+    "publisher": "Alternative",
+    "path": "Alternative/TD1-DayAtTheRaces_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "T D1 Grand Prix",
+    "filename": "TD1-GrandPrix_BE.uef",
+    "publisher": "Alternative",
+    "path": "Alternative/TD1-GrandPrix_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "T D1 Manic Mole",
+    "filename": "TD1-ManicMole_BE.uef",
+    "publisher": "Alternative",
+    "path": "Alternative/TD1-ManicMole_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "T D10 Bunny Blitz",
+    "filename": "TD10-BunnyBlitz_BE.uef",
+    "publisher": "Alternative",
+    "path": "Alternative/TD10-BunnyBlitz_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "T D10 Money Maze",
+    "filename": "TD10-MoneyMaze_BE.uef",
+    "publisher": "Alternative",
+    "path": "Alternative/TD10-MoneyMaze_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "T D10 Rockfall",
+    "filename": "TD10-Rockfall_BE.uef",
+    "publisher": "Alternative",
+    "path": "Alternative/TD10-Rockfall_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "T D2 Haunted House",
+    "filename": "TD2-HauntedHouse_BE.uef",
+    "publisher": "Alternative",
+    "path": "Alternative/TD2-HauntedHouse_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "T D2 Invasion Force",
+    "filename": "TD2-InvasionForce_BE.uef",
+    "publisher": "Alternative",
+    "path": "Alternative/TD2-InvasionForce_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "T D2 Parachute",
+    "filename": "TD2-Parachute_BE.uef",
+    "publisher": "Alternative",
+    "path": "Alternative/TD2-Parachute_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "T D3 Jam Butty",
+    "filename": "TD3-JamButty_BE.uef",
+    "publisher": "Alternative",
+    "path": "Alternative/TD3-JamButty_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "T D3 Lander",
+    "filename": "TD3-Lander_BE.uef",
+    "publisher": "Alternative",
+    "path": "Alternative/TD3-Lander_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "T D3 Lunar Invasion",
+    "filename": "TD3-LunarInvasion_BE.uef",
+    "publisher": "Alternative",
+    "path": "Alternative/TD3-LunarInvasion_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "T D4 Fishing",
+    "filename": "TD4-Fishing_BE.uef",
+    "publisher": "Alternative",
+    "path": "Alternative/TD4-Fishing_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "T D4 Golf",
+    "filename": "TD4-Golf_BE.uef",
+    "publisher": "Alternative",
+    "path": "Alternative/TD4-Golf_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "T D4 Howzat",
+    "filename": "TD4-Howzat_BE.uef",
+    "publisher": "Alternative",
+    "path": "Alternative/TD4-Howzat_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "T D5 Karate Warrior",
+    "filename": "TD5-KarateWarrior_BE.uef",
+    "publisher": "Alternative",
+    "path": "Alternative/TD5-KarateWarrior_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "T D5 Skramble",
+    "filename": "TD5-Skramble_BE.uef",
+    "publisher": "Alternative",
+    "path": "Alternative/TD5-Skramble_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "T D5 Star Fight",
+    "filename": "TD5-StarFight_BE.uef",
+    "publisher": "Alternative",
+    "path": "Alternative/TD5-StarFight_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "T D6 Castle Of Sands",
+    "filename": "TD6-CastleOfSands_BE.uef",
+    "publisher": "Alternative",
+    "path": "Alternative/TD6-CastleOfSands_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "T D6 Cavern Capers",
+    "filename": "TD6-CavernCapers_BE.uef",
+    "publisher": "Alternative",
+    "path": "Alternative/TD6-CavernCapers_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "T D6 Snap Dragon",
+    "filename": "TD6-SnapDragon_BE.uef",
+    "publisher": "Alternative",
+    "path": "Alternative/TD6-SnapDragon_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "T D7 Atom Smash",
+    "filename": "TD7-AtomSmash_BE.uef",
+    "publisher": "Alternative",
+    "path": "Alternative/TD7-AtomSmash_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "T D7 Knockout",
+    "filename": "TD7-Knockout_BE.uef",
+    "publisher": "Alternative",
+    "path": "Alternative/TD7-Knockout_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "T D7 Reaction Tester",
+    "filename": "TD7-ReactionTester_BE.uef",
+    "publisher": "Alternative",
+    "path": "Alternative/TD7-ReactionTester_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "T D8 Fruit Worm",
+    "filename": "TD8-FruitWorm_E.uef",
+    "publisher": "Alternative",
+    "path": "Alternative/TD8-FruitWorm_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "T D8 Grebit",
+    "filename": "TD8-Grebit_E.uef",
+    "publisher": "Alternative",
+    "path": "Alternative/TD8-Grebit_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "T D8 Mr Freeze",
+    "filename": "TD8-MrFreeze_E.uef",
+    "publisher": "Alternative",
+    "path": "Alternative/TD8-MrFreeze_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "T D9 Breakfree",
+    "filename": "TD9-Breakfree_BE.uef",
+    "publisher": "Alternative",
+    "path": "Alternative/TD9-Breakfree_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "T D9 Codebreaker",
+    "filename": "TD9-Codebreaker_BE.uef",
+    "publisher": "Alternative",
+    "path": "Alternative/TD9-Codebreaker_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "T D9 Missile Jammer",
+    "filename": "TD9-MissileJammer_BE.uef",
+    "publisher": "Alternative",
+    "path": "Alternative/TD9-MissileJammer_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "Video Pinball",
+    "filename": "VideoPinball_BE.uef",
+    "publisher": "Alternative",
+    "path": "Alternative/VideoPinball_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "Zalaga A L R R",
+    "filename": "Zalaga-ALRR_E.uef",
+    "publisher": "Alternative",
+    "path": "Alternative/Zalaga-ALRR_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Chuckie Egg",
+    "filename": "ChuckieEgg_E.uef",
+    "publisher": "AnF",
+    "path": "AnF/ChuckieEgg_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Cylon Attack",
+    "filename": "CylonAttack_E.uef",
+    "publisher": "AnF",
+    "path": "AnF/CylonAttack_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Kamakazi",
+    "filename": "Kamakazi_E.uef",
+    "publisher": "AnF",
+    "path": "AnF/Kamakazi_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Pharaohs Tomb",
+    "filename": "PharaohsTomb_E.uef",
+    "publisher": "AnF",
+    "path": "AnF/PharaohsTomb_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Strip Poker I I Plus",
+    "filename": "StripPokerIIPlus_BE.uef",
+    "publisher": "Anco",
+    "path": "Anco/StripPokerIIPlus_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "Thai Boxing",
+    "filename": "ThaiBoxing_E.uef",
+    "publisher": "Anco",
+    "path": "Anco/ThaiBoxing_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Flight Path737",
+    "filename": "FlightPath737_E.uef",
+    "publisher": "Anirog",
+    "path": "Anirog/FlightPath737_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Great Wall",
+    "filename": "GreatWall_BE.uef",
+    "publisher": "Antartic",
+    "path": "Antartic/GreatWall_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "Web War",
+    "filename": "WebWar_RUN_BE.uef",
+    "publisher": "Antartic",
+    "path": "Antartic/WebWar_RUN_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "Woks",
+    "filename": "Woks_BE.uef",
+    "publisher": "Antartic",
+    "path": "Antartic/Woks_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "Depotmaster Finsbury Park",
+    "filename": "DepotmasterFinsburyPark_BE.uef",
+    "publisher": "AshleyGreenup",
+    "path": "AshleyGreenup/DepotmasterFinsburyPark_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "Depotmaster Old Oak Common",
+    "filename": "DepotmasterOldOakCommon_BE.uef",
+    "publisher": "AshleyGreenup",
+    "path": "AshleyGreenup/DepotmasterOldOakCommon_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "Robotron",
+    "filename": "Robotron_E.uef",
+    "publisher": "Atarisoft",
+    "path": "Atarisoft/Robotron_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Anarchy Zone",
+    "filename": "AnarchyZone_BE.uef",
+    "publisher": "Atlantis",
+    "path": "Atlantis/AnarchyZone_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "Cops N Robbers",
+    "filename": "CopsNRobbers_BE.uef",
+    "publisher": "Atlantis",
+    "path": "Atlantis/CopsNRobbers_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "Crack Up",
+    "filename": "CrackUp_E.uef",
+    "publisher": "Atlantis",
+    "path": "Atlantis/CrackUp_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Creepy Cave",
+    "filename": "CreepyCave_BE.uef",
+    "publisher": "Atlantis",
+    "path": "Atlantis/CreepyCave_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "Golden Figurine",
+    "filename": "GoldenFigurine_BE.uef",
+    "publisher": "Atlantis",
+    "path": "Atlantis/GoldenFigurine_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "Gunfighter",
+    "filename": "Gunfighter_BE.uef",
+    "publisher": "Atlantis",
+    "path": "Atlantis/Gunfighter_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "Hobgoblin2",
+    "filename": "Hobgoblin2_E.uef",
+    "publisher": "Atlantis",
+    "path": "Atlantis/Hobgoblin2_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Hobgoblin",
+    "filename": "Hobgoblin_E.uef",
+    "publisher": "Atlantis",
+    "path": "Atlantis/Hobgoblin_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "League Challenge",
+    "filename": "LeagueChallenge_BE.uef",
+    "publisher": "Atlantis",
+    "path": "Atlantis/LeagueChallenge_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "Panik",
+    "filename": "Panik_BE.uef",
+    "publisher": "Atlantis",
+    "path": "Atlantis/Panik_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "Pro Golf",
+    "filename": "ProGolf_BE.uef",
+    "publisher": "Atlantis",
+    "path": "Atlantis/ProGolf_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "Psycastria2 Atlantis",
+    "filename": "Psycastria2-Atlantis_E.uef",
+    "publisher": "Atlantis",
+    "path": "Atlantis/Psycastria2-Atlantis_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Stormcycle",
+    "filename": "Stormcycle_E.uef",
+    "publisher": "Atlantis",
+    "path": "Atlantis/Stormcycle_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Survivors",
+    "filename": "Survivors_BE.uef",
+    "publisher": "Atlantis",
+    "path": "Atlantis/Survivors_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "Breakthrough",
+    "filename": "Breakthrough_RUN_E.uef",
+    "publisher": "Audiogenic",
+    "path": "Audiogenic/Breakthrough_RUN_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Despatch Rider",
+    "filename": "DespatchRider_E.uef",
+    "publisher": "Audiogenic",
+    "path": "Audiogenic/DespatchRider_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Froot Raid",
+    "filename": "FrootRaid_E.uef",
+    "publisher": "Audiogenic",
+    "path": "Audiogenic/FrootRaid_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Graham Gooch",
+    "filename": "GrahamGooch_E.uef",
+    "publisher": "Audiogenic",
+    "path": "Audiogenic/GrahamGooch_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Helter Skelter",
+    "filename": "HelterSkelter_E.uef",
+    "publisher": "Audiogenic",
+    "path": "Audiogenic/HelterSkelter_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Impact",
+    "filename": "Impact_E.uef",
+    "publisher": "Audiogenic",
+    "path": "Audiogenic/Impact_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Last Of The Free",
+    "filename": "LastOfTheFree_E.uef",
+    "publisher": "Audiogenic",
+    "path": "Audiogenic/LastOfTheFree_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Loopz",
+    "filename": "Loopz_E.uef",
+    "publisher": "Audiogenic",
+    "path": "Audiogenic/Loopz_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Omega Orb",
+    "filename": "OmegaOrb_E.uef",
+    "publisher": "Audiogenic",
+    "path": "Audiogenic/OmegaOrb_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Psycastria2",
+    "filename": "Psycastria2_E.uef",
+    "publisher": "Audiogenic",
+    "path": "Audiogenic/Psycastria2_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Psycastria",
+    "filename": "Psycastria_E.uef",
+    "publisher": "Audiogenic",
+    "path": "Audiogenic/Psycastria_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Ransack",
+    "filename": "Ransack_E.uef",
+    "publisher": "Audiogenic",
+    "path": "Audiogenic/Ransack_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Saracoid",
+    "filename": "Saracoid_E.uef",
+    "publisher": "Audiogenic",
+    "path": "Audiogenic/Saracoid_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Shark",
+    "filename": "Shark_E.uef",
+    "publisher": "Audiogenic",
+    "path": "Audiogenic/Shark_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Space Agent Zelda Meets The Bug Eyes",
+    "filename": "SpaceAgentZeldaMeetsTheBugEyes_E.uef",
+    "publisher": "Audiogenic",
+    "path": "Audiogenic/SpaceAgentZeldaMeetsTheBugEyes_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Space Ranger",
+    "filename": "SpaceRanger_E.uef",
+    "publisher": "Audiogenic",
+    "path": "Audiogenic/SpaceRanger_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Sphere Of Destiny2",
+    "filename": "SphereOfDestiny2_E.uef",
+    "publisher": "Audiogenic",
+    "path": "Audiogenic/SphereOfDestiny2_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Sphere Of Destiny",
+    "filename": "SphereOfDestiny_E.uef",
+    "publisher": "Audiogenic",
+    "path": "Audiogenic/SphereOfDestiny_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Thunderstruck2",
+    "filename": "Thunderstruck2_E.uef",
+    "publisher": "Audiogenic",
+    "path": "Audiogenic/Thunderstruck2_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Thunderstruck",
+    "filename": "Thunderstruck_E.uef",
+    "publisher": "Audiogenic",
+    "path": "Audiogenic/Thunderstruck_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Wizzys Mansion",
+    "filename": "WizzysMansion_RUN_E.uef",
+    "publisher": "Audiogenic",
+    "path": "Audiogenic/WizzysMansion_RUN_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Ziggy",
+    "filename": "Ziggy_E.uef",
+    "publisher": "Audiogenic",
+    "path": "Audiogenic/Ziggy_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Battlefields",
+    "filename": "Battlefields_BE.uef",
+    "publisher": "BBCSoft",
+    "path": "BBCSoft/Battlefields_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "Locomotion",
+    "filename": "Locomotion_E.uef",
+    "publisher": "BBCSoft",
+    "path": "BBCSoft/Locomotion_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "White Knight Mk11",
+    "filename": "WhiteKnightMk11_E.uef",
+    "publisher": "BBCSoft",
+    "path": "BBCSoft/WhiteKnightMk11_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Circus B J R R",
+    "filename": "Circus-BJRR_E.uef",
+    "publisher": "BeauJolly",
+    "path": "BeauJolly/Circus-BJRR_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Chukee",
+    "filename": "Chukee_E.uef",
+    "publisher": "BitTwiddlers",
+    "path": "BitTwiddlers/Chukee_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "3 D Dotty",
+    "filename": "3DDotty_E.uef",
+    "publisher": "BlueRibbon",
+    "path": "BlueRibbon/3DDotty_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Astro Plumber",
+    "filename": "AstroPlumber_E.uef",
+    "publisher": "BlueRibbon",
+    "path": "BlueRibbon/AstroPlumber_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Balloon Buster",
+    "filename": "BalloonBuster_E.uef",
+    "publisher": "BlueRibbon",
+    "path": "BlueRibbon/BalloonBuster_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Bar Billiards",
+    "filename": "BarBilliards_E.uef",
+    "publisher": "BlueRibbon",
+    "path": "BlueRibbon/BarBilliards_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Castle Assault",
+    "filename": "CastleAssault_E.uef",
+    "publisher": "BlueRibbon",
+    "path": "BlueRibbon/CastleAssault_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Condition Red",
+    "filename": "ConditionRed_E.uef",
+    "publisher": "BlueRibbon",
+    "path": "BlueRibbon/ConditionRed_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Darts Blue Ribbon",
+    "filename": "Darts-BlueRibbon_E.uef",
+    "publisher": "BlueRibbon",
+    "path": "BlueRibbon/Darts-BlueRibbon_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Diamond Mine Blue Ribbon",
+    "filename": "DiamondMine-BlueRibbon_E.uef",
+    "publisher": "BlueRibbon",
+    "path": "BlueRibbon/DiamondMine-BlueRibbon_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Diamond Mine2 Blue Ribbon",
+    "filename": "DiamondMine2-BlueRibbon_E.uef",
+    "publisher": "BlueRibbon",
+    "path": "BlueRibbon/DiamondMine2-BlueRibbon_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Dominoes",
+    "filename": "Dominoes_E.uef",
+    "publisher": "BlueRibbon",
+    "path": "BlueRibbon/Dominoes_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Golf Blue Ribbon",
+    "filename": "Golf-BlueRibbon_E.uef",
+    "publisher": "BlueRibbon",
+    "path": "BlueRibbon/Golf-BlueRibbon_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Hi Q Quiz",
+    "filename": "HiQQuiz_E.uef",
+    "publisher": "BlueRibbon",
+    "path": "BlueRibbon/HiQQuiz_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Joey",
+    "filename": "Joey_E.uef",
+    "publisher": "BlueRibbon",
+    "path": "BlueRibbon/Joey_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Mango",
+    "filename": "Mango_E.uef",
+    "publisher": "BlueRibbon",
+    "path": "BlueRibbon/Mango_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Nightmare Maze",
+    "filename": "NightmareMaze_E.uef",
+    "publisher": "BlueRibbon",
+    "path": "BlueRibbon/NightmareMaze_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Ravage",
+    "filename": "Ravage_E.uef",
+    "publisher": "BlueRibbon",
+    "path": "BlueRibbon/Ravage_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Return Of R2",
+    "filename": "ReturnOfR2_E.uef",
+    "publisher": "BlueRibbon",
+    "path": "BlueRibbon/ReturnOfR2_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Spooksville",
+    "filename": "Spooksville_E.uef",
+    "publisher": "BlueRibbon",
+    "path": "BlueRibbon/Spooksville_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Trapper",
+    "filename": "Trapper_E.uef",
+    "publisher": "BlueRibbon",
+    "path": "BlueRibbon/Trapper_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Video Card Arcade",
+    "filename": "VideoCardArcade_E.uef",
+    "publisher": "BlueRibbon",
+    "path": "BlueRibbon/VideoCardArcade_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Enigma",
+    "filename": "Enigma_E.uef",
+    "publisher": "Brainbox",
+    "path": "Brainbox/Enigma_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Xadomy",
+    "filename": "Xadomy_BE.uef",
+    "publisher": "BrassingtonEnterprises",
+    "path": "BrassingtonEnterprises/Xadomy_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "Bruce Forsyths Play Your Cards Right",
+    "filename": "BruceForsythsPlayYourCardsRight_E.uef",
+    "publisher": "Britannia",
+    "path": "Britannia/BruceForsythsPlayYourCardsRight_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Cricket",
+    "filename": "Cricket_BE.uef",
+    "publisher": "BugByte",
+    "path": "BugByte/Cricket_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "Dunjunz",
+    "filename": "Dunjunz_E.uef",
+    "publisher": "BugByte",
+    "path": "BugByte/Dunjunz_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Hunkidory",
+    "filename": "Hunkidory_BE.uef",
+    "publisher": "BugByte",
+    "path": "BugByte/Hunkidory_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "Ice Hockey",
+    "filename": "IceHockey_BE.uef",
+    "publisher": "BugByte",
+    "path": "BugByte/IceHockey_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "Jack Attack",
+    "filename": "JackAttack_E.uef",
+    "publisher": "BugByte",
+    "path": "BugByte/JackAttack_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Monkey Nuts",
+    "filename": "MonkeyNuts_BE.uef",
+    "publisher": "BugByte",
+    "path": "BugByte/MonkeyNuts_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "Plan B2",
+    "filename": "PlanB2_BE.uef",
+    "publisher": "BugByte",
+    "path": "BugByte/PlanB2_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "Plan B",
+    "filename": "PlanB_BE.uef",
+    "publisher": "BugByte",
+    "path": "BugByte/PlanB_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "Roboto",
+    "filename": "Roboto_E.uef",
+    "publisher": "BugByte",
+    "path": "BugByte/Roboto_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Savage Pond",
+    "filename": "SavagePond_E.uef",
+    "publisher": "BugByte",
+    "path": "BugByte/SavagePond_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Sky Hawk Bug Byte",
+    "filename": "SkyHawk-BugByte_BE.uef",
+    "publisher": "BugByte",
+    "path": "BugByte/SkyHawk-BugByte_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "Squeakaliser",
+    "filename": "Squeakaliser_E.uef",
+    "publisher": "BugByte",
+    "path": "BugByte/Squeakaliser_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Star Force Seven",
+    "filename": "StarForceSeven_E.uef",
+    "publisher": "BugByte",
+    "path": "BugByte/StarForceSeven_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Templeton",
+    "filename": "Templeton_BE.uef",
+    "publisher": "BugByte",
+    "path": "BugByte/Templeton_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "Tennis",
+    "filename": "Tennis_E.uef",
+    "publisher": "BugByte",
+    "path": "BugByte/Tennis_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Twin Kingdom Valleymodified",
+    "filename": "TwinKingdomValley-modified_E.uef",
+    "publisher": "BugByte",
+    "path": "BugByte/TwinKingdomValley-modified_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Uranians",
+    "filename": "Uranians_E.uef",
+    "publisher": "BugByte",
+    "path": "BugByte/Uranians_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Birdie Barrage",
+    "filename": "BirdieBarrage_E.uef",
+    "publisher": "CDS",
+    "path": "CDS/BirdieBarrage_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Brian Cloughs Football Fortunes",
+    "filename": "BrianCloughsFootballFortunes_BE.uef",
+    "publisher": "CDS",
+    "path": "CDS/BrianCloughsFootballFortunes_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "Colossus4 Bridge",
+    "filename": "Colossus4Bridge_E.uef",
+    "publisher": "CDS",
+    "path": "CDS/Colossus4Bridge_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Colossus4 Chess",
+    "filename": "Colossus4Chess_E.uef",
+    "publisher": "CDS",
+    "path": "CDS/Colossus4Chess_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Sporting Triangles Cassette1",
+    "filename": "SportingTrianglesCassette1_BE.uef",
+    "publisher": "CDS",
+    "path": "CDS/SportingTrianglesCassette1_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "Sporting Triangles Cassette2",
+    "filename": "SportingTrianglesCassette2_BE.uef",
+    "publisher": "CDS",
+    "path": "CDS/SportingTrianglesCassette2_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "Steve Davis Snooker",
+    "filename": "SteveDavisSnooker_E.uef",
+    "publisher": "CDS",
+    "path": "CDS/SteveDavisSnooker_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Tank Attack",
+    "filename": "TankAttack_BE.uef",
+    "publisher": "CDS",
+    "path": "CDS/TankAttack_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "Test Match Side1",
+    "filename": "TestMatch-Side1_E.uef",
+    "publisher": "CRL",
+    "path": "CRL/TestMatch-Side1_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Test Match Side2",
+    "filename": "TestMatch-Side2_E.uef",
+    "publisher": "CRL",
+    "path": "CRL/TestMatch-Side2_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Sim",
+    "filename": "Sim_E.uef",
+    "publisher": "CSM",
+    "path": "CSM/Sim_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Cassette50 Side1",
+    "filename": "Cassette50-Side1_E.hq.uef",
+    "publisher": "Cascade",
+    "path": "Cascade/Cassette50-Side1_E.hq.uef",
+    "enabled": true
+  },
+  {
+    "title": "Cassette50 Side2",
+    "filename": "Cassette50-Side2_E.hq.uef",
+    "publisher": "Cascade",
+    "path": "Cascade/Cassette50-Side2_E.hq.uef",
+    "enabled": true
+  },
+  {
+    "title": "Abyss",
+    "filename": "Abyss_BE.uef",
+    "publisher": "Cases",
+    "path": "Cases/Abyss_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "Airline",
+    "filename": "Airline_E.uef",
+    "publisher": "Cases",
+    "path": "Cases/Airline_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Battle1917",
+    "filename": "Battle1917_E.uef",
+    "publisher": "Cases",
+    "path": "Cases/Battle1917_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Corn Cropper",
+    "filename": "CornCropper_E.uef",
+    "publisher": "Cases",
+    "path": "Cases/CornCropper_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Dallas",
+    "filename": "Dallas_E.uef",
+    "publisher": "Cases",
+    "path": "Cases/Dallas_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Plunder",
+    "filename": "Plunder_E.uef",
+    "publisher": "Cases",
+    "path": "Cases/Plunder_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Fruit Machine Simulator",
+    "filename": "FruitMachineSimulator_E.uef",
+    "publisher": "Codemasters",
+    "path": "Codemasters/FruitMachineSimulator_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Pro Boxing Simulator",
+    "filename": "ProBoxingSimulator_E.hq.uef",
+    "publisher": "Codemasters",
+    "path": "Codemasters/ProBoxingSimulator_E.hq.uef",
+    "enabled": true
+  },
+  {
+    "title": "Draughts Computer Concepts",
+    "filename": "Draughts-ComputerConcepts_BE.uef",
+    "publisher": "ComputerConcepts",
+    "path": "ComputerConcepts/Draughts-ComputerConcepts_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "Custard Pie Fight",
+    "filename": "CustardPieFight_E.uef",
+    "publisher": "Comsoft",
+    "path": "Comsoft/CustardPieFight_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Playbox",
+    "filename": "Playbox_E.uef",
+    "publisher": "Comsoft",
+    "path": "Comsoft/Playbox_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "S A S Commander",
+    "filename": "SASCommander_E.uef",
+    "publisher": "Comsoft",
+    "path": "Comsoft/SASCommander_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Serpents Lair",
+    "filename": "SerpentsLair_E.uef",
+    "publisher": "Comsoft",
+    "path": "Comsoft/SerpentsLair_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Inca Treasure",
+    "filename": "IncaTreasure_BE.uef",
+    "publisher": "DWGore",
+    "path": "DWGore/IncaTreasure_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "The Four Wands Pt1",
+    "filename": "TheFourWands-Pt1_BE.uef",
+    "publisher": "DWGore",
+    "path": "DWGore/TheFourWands-Pt1_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "The Four Wands Pt2",
+    "filename": "TheFourWands-Pt2_BE.uef",
+    "publisher": "DWGore",
+    "path": "DWGore/TheFourWands-Pt2_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "The Four Wands Pt3",
+    "filename": "TheFourWands-Pt3_BE.uef",
+    "publisher": "DWGore",
+    "path": "DWGore/TheFourWands-Pt3_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "747 Flight Simulator",
+    "filename": "747FlightSimulator_E.uef",
+    "publisher": "Dacc",
+    "path": "Dacc/747FlightSimulator_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Bobby Charlton Soccer",
+    "filename": "BobbyCharltonSoccer_E.uef",
+    "publisher": "Dacc",
+    "path": "Dacc/BobbyCharltonSoccer_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "10 Best1 Alphaswap",
+    "filename": "10Best1-Alphaswap_E.uef",
+    "publisher": "Database",
+    "path": "Database/10Best1-Alphaswap_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "10 Best1 Golf",
+    "filename": "10Best1-Golf_E.uef",
+    "publisher": "Database",
+    "path": "Database/10Best1-Golf_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "10 Best1 Haunted House",
+    "filename": "10Best1-HauntedHouse_E.uef",
+    "publisher": "Database",
+    "path": "Database/10Best1-HauntedHouse_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "10 Best1 Jam Butty",
+    "filename": "10Best1-JamButty_E.uef",
+    "publisher": "Database",
+    "path": "Database/10Best1-JamButty_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "10 Best1 Knockout",
+    "filename": "10Best1-Knockout_E.uef",
+    "publisher": "Database",
+    "path": "Database/10Best1-Knockout_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "10 Best1 Lander",
+    "filename": "10Best1-Lander_E.uef",
+    "publisher": "Database",
+    "path": "Database/10Best1-Lander_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "10 Best1 Moneymaze",
+    "filename": "10Best1-Moneymaze_E.uef",
+    "publisher": "Database",
+    "path": "Database/10Best1-Moneymaze_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "10 Best1 Parkys Peril",
+    "filename": "10Best1-ParkysPeril_E.uef",
+    "publisher": "Database",
+    "path": "Database/10Best1-ParkysPeril_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "10 Best1 Rally Driver",
+    "filename": "10Best1-RallyDriver_E.uef",
+    "publisher": "Database",
+    "path": "Database/10Best1-RallyDriver_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "10 Best1 Space Hike",
+    "filename": "10Best1-SpaceHike_E.uef",
+    "publisher": "Database",
+    "path": "Database/10Best1-SpaceHike_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "10 Best1",
+    "filename": "10Best1_E.uef",
+    "publisher": "Database",
+    "path": "Database/10Best1_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "10 Best2 Atom Smash",
+    "filename": "10Best2-AtomSmash_E.uef",
+    "publisher": "Database",
+    "path": "Database/10Best2-AtomSmash_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "10 Best2 Break Free",
+    "filename": "10Best2-BreakFree_E.uef",
+    "publisher": "Database",
+    "path": "Database/10Best2-BreakFree_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "10 Best2 Bunny",
+    "filename": "10Best2-Bunny_E.uef",
+    "publisher": "Database",
+    "path": "Database/10Best2-Bunny_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "10 Best2 Codebreaker",
+    "filename": "10Best2-Codebreaker_E.uef",
+    "publisher": "Database",
+    "path": "Database/10Best2-Codebreaker_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "10 Best2 Jumper",
+    "filename": "10Best2-Jumper_E.uef",
+    "publisher": "Database",
+    "path": "Database/10Best2-Jumper_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "10 Best2 Parachute",
+    "filename": "10Best2-Parachute_E.uef",
+    "publisher": "Database",
+    "path": "Database/10Best2-Parachute_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "10 Best2 Reaction Tester",
+    "filename": "10Best2-ReactionTester_E.uef",
+    "publisher": "Database",
+    "path": "Database/10Best2-ReactionTester_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "10 Best2 Sandcastle",
+    "filename": "10Best2-Sandcastle_E.uef",
+    "publisher": "Database",
+    "path": "Database/10Best2-Sandcastle_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "10 Best2 Solitaire",
+    "filename": "10Best2-Solitaire_E.uef",
+    "publisher": "Database",
+    "path": "Database/10Best2-Solitaire_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "10 Best2 Star Fight",
+    "filename": "10Best2-StarFight_E.uef",
+    "publisher": "Database",
+    "path": "Database/10Best2-StarFight_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "10 Best2",
+    "filename": "10Best2_E.uef",
+    "publisher": "Database",
+    "path": "Database/10Best2_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "10 Of The Best Vol3",
+    "filename": "10OfTheBestVol3_E.uef",
+    "publisher": "Database",
+    "path": "Database/10OfTheBestVol3_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "9 Classic Card And Board Games Vol1",
+    "filename": "9ClassicCardAndBoardGamesVol1_BE.uef",
+    "publisher": "Database",
+    "path": "Database/9ClassicCardAndBoardGamesVol1_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "9 Classic Card And Board Games Vol2",
+    "filename": "9ClassicCardAndBoardGamesVol2_BE.uef",
+    "publisher": "Database",
+    "path": "Database/9ClassicCardAndBoardGamesVol2_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "Adventure Anthology",
+    "filename": "AdventureAnthology_E.uef",
+    "publisher": "Database",
+    "path": "Database/AdventureAnthology_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Classic Arcade Games",
+    "filename": "ClassicArcadeGames_E.uef",
+    "publisher": "Database",
+    "path": "Database/ClassicArcadeGames_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Micro Olympics",
+    "filename": "MicroOlympics_E.uef",
+    "publisher": "Database",
+    "path": "Database/MicroOlympics_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "The Magic Sword",
+    "filename": "TheMagicSword_E.uef",
+    "publisher": "Database",
+    "path": "Database/TheMagicSword_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Mendips Stone",
+    "filename": "MendipsStone_BE.uef",
+    "publisher": "DeeKay",
+    "path": "DeeKay/MendipsStone_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "R T C Birmingham",
+    "filename": "RTCBirmingham_BE.uef",
+    "publisher": "DeeKay",
+    "path": "DeeKay/RTCBirmingham_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "R T C Crewe",
+    "filename": "RTCCrewe_BE.uef",
+    "publisher": "DeeKay",
+    "path": "DeeKay/RTCCrewe_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "R T C Doncaster",
+    "filename": "RTCDoncaster_BE.uef",
+    "publisher": "DeeKay",
+    "path": "DeeKay/RTCDoncaster_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "Shedmaster Bounds Green",
+    "filename": "ShedmasterBoundsGreen_BE.uef",
+    "publisher": "DeeKay",
+    "path": "DeeKay/ShedmasterBoundsGreen_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "Shedmaster Finsbury Park",
+    "filename": "ShedmasterFinsburyPark_BE.uef",
+    "publisher": "DeeKay",
+    "path": "DeeKay/ShedmasterFinsburyPark_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "South Devon Hydraulics",
+    "filename": "SouthDevonHydraulics_BE.uef",
+    "publisher": "DeeKay",
+    "path": "DeeKay/SouthDevonHydraulics_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "747",
+    "filename": "747_E.uef",
+    "publisher": "Doctorsoft",
+    "path": "Doctorsoft/747_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Fruit Machine Doctorsoft",
+    "filename": "FruitMachine-Doctorsoft_E.uef",
+    "publisher": "Doctorsoft",
+    "path": "Doctorsoft/FruitMachine-Doctorsoft_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Gorph",
+    "filename": "Gorph_E.uef",
+    "publisher": "Doctorsoft",
+    "path": "Doctorsoft/Gorph_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Phantom Combat",
+    "filename": "PhantomCombat_E.uef",
+    "publisher": "Doctorsoft",
+    "path": "Doctorsoft/PhantomCombat_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Star Wars",
+    "filename": "StarWars_E.uef",
+    "publisher": "Domark",
+    "path": "Domark/StarWars_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "E X P L A D V Castlemaze Adventure",
+    "filename": "EXPLADV-CastlemazeAdventure_E.uef",
+    "publisher": "Duckworth",
+    "path": "Duckworth/EXPLADV-CastlemazeAdventure_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "E X P L A D V Tunnel Adventure",
+    "filename": "EXPLADV-TunnelAdventure_E.uef",
+    "publisher": "Duckworth",
+    "path": "Duckworth/EXPLADV-TunnelAdventure_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "E X P L A D V Undeground Adventure",
+    "filename": "EXPLADV-UndegroundAdventure_E.uef",
+    "publisher": "Duckworth",
+    "path": "Duckworth/EXPLADV-UndegroundAdventure_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Poker Duckworth",
+    "filename": "Poker-Duckworth_BE.uef",
+    "publisher": "Duckworth",
+    "path": "Duckworth/Poker-Duckworth_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "Combat Lynx",
+    "filename": "CombatLynx_E.uef",
+    "publisher": "Durell",
+    "path": "Durell/CombatLynx_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Mineshaft",
+    "filename": "Mineshaft_RUN_E.uef",
+    "publisher": "Durell",
+    "path": "Durell/Mineshaft_RUN_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "3 D Tank Zone",
+    "filename": "3DTankZone_E.uef",
+    "publisher": "Dynabyte",
+    "path": "Dynabyte/3DTankZone_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Corporate Climber",
+    "filename": "CorporateClimber_E.uef",
+    "publisher": "Dynabyte",
+    "path": "Dynabyte/CorporateClimber_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Horse Race",
+    "filename": "HorseRace_E.uef",
+    "publisher": "Dynabyte",
+    "path": "Dynabyte/HorseRace_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Lemming Syndrome",
+    "filename": "LemmingSyndrome_E.uef",
+    "publisher": "Dynabyte",
+    "path": "Dynabyte/LemmingSyndrome_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Pool Hall",
+    "filename": "PoolHall_E.uef",
+    "publisher": "Dynabyte",
+    "path": "Dynabyte/PoolHall_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Commando",
+    "filename": "Commando_E.uef",
+    "publisher": "Elite",
+    "path": "Elite/Commando_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Paperboy",
+    "filename": "Paperboy_E.uef",
+    "publisher": "Elite",
+    "path": "Elite/Paperboy_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Axe Of Kolt Pt1",
+    "filename": "AxeOfKolt-Pt1_BE.uef",
+    "publisher": "ElkAdventureClub",
+    "path": "ElkAdventureClub/AxeOfKolt-Pt1_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "Axe Of Kolt Pt2",
+    "filename": "AxeOfKolt-Pt2_BE.uef",
+    "publisher": "ElkAdventureClub",
+    "path": "ElkAdventureClub/AxeOfKolt-Pt2_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "Axe Of Kolt Pt3",
+    "filename": "AxeOfKolt-Pt3_BE.uef",
+    "publisher": "ElkAdventureClub",
+    "path": "ElkAdventureClub/AxeOfKolt-Pt3_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "Axe Of Kolt Pt4",
+    "filename": "AxeOfKolt-Pt4_BE.uef",
+    "publisher": "ElkAdventureClub",
+    "path": "ElkAdventureClub/AxeOfKolt-Pt4_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "Magnetic Moon Pt1",
+    "filename": "MagneticMoon-Pt1_BE.uef",
+    "publisher": "ElkAdventureClub",
+    "path": "ElkAdventureClub/MagneticMoon-Pt1_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "Magnetic Moon Pt2",
+    "filename": "MagneticMoon-Pt2_BE.uef",
+    "publisher": "ElkAdventureClub",
+    "path": "ElkAdventureClub/MagneticMoon-Pt2_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "Magnetic Moon Pt3",
+    "filename": "MagneticMoon-Pt3_BE.uef",
+    "publisher": "ElkAdventureClub",
+    "path": "ElkAdventureClub/MagneticMoon-Pt3_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "Reluctant Hero Pt1",
+    "filename": "ReluctantHero-Pt1_BE.uef",
+    "publisher": "ElkAdventureClub",
+    "path": "ElkAdventureClub/ReluctantHero-Pt1_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "Reluctant Hero Pt2",
+    "filename": "ReluctantHero-Pt2_BE.uef",
+    "publisher": "ElkAdventureClub",
+    "path": "ElkAdventureClub/ReluctantHero-Pt2_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "Rohak The Swordsman Pt1",
+    "filename": "RohakTheSwordsman-Pt1_BE.uef",
+    "publisher": "ElkAdventureClub",
+    "path": "ElkAdventureClub/RohakTheSwordsman-Pt1_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "Rohak The Swordsman Pt2",
+    "filename": "RohakTheSwordsman-Pt2_RUN_BE.uef",
+    "publisher": "ElkAdventureClub",
+    "path": "ElkAdventureClub/RohakTheSwordsman-Pt2_RUN_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "Rohak The Swordsman Pt3",
+    "filename": "RohakTheSwordsman-Pt3_RUN_BE.uef",
+    "publisher": "ElkAdventureClub",
+    "path": "ElkAdventureClub/RohakTheSwordsman-Pt3_RUN_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "Rohak The Swordsman Pt4",
+    "filename": "RohakTheSwordsman-Pt4_RUN_BE.uef",
+    "publisher": "ElkAdventureClub",
+    "path": "ElkAdventureClub/RohakTheSwordsman-Pt4_RUN_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "Starship Quest Pt1",
+    "filename": "StarshipQuest-Pt1_BE.uef",
+    "publisher": "ElkAdventureClub",
+    "path": "ElkAdventureClub/StarshipQuest-Pt1_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "Starship Quest Pt2",
+    "filename": "StarshipQuest-Pt2_BE.uef",
+    "publisher": "ElkAdventureClub",
+    "path": "ElkAdventureClub/StarshipQuest-Pt2_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "Starship Quest Pt3",
+    "filename": "StarshipQuest-Pt3_BE.uef",
+    "publisher": "ElkAdventureClub",
+    "path": "ElkAdventureClub/StarshipQuest-Pt3_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "Pipemania",
+    "filename": "Pipemania_E.uef",
+    "publisher": "Empire",
+    "path": "Empire/Pipemania_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Jet Boot Jack",
+    "filename": "JetBootJack_E.uef",
+    "publisher": "English",
+    "path": "English/JetBootJack_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Kissin Cousins",
+    "filename": "KissinCousins_E.uef",
+    "publisher": "English",
+    "path": "English/KissinCousins_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Spaceman Sid",
+    "filename": "SpacemanSid_E.uef",
+    "publisher": "English",
+    "path": "English/SpacemanSid_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Castle Frankenstein",
+    "filename": "CastleFrankenstein_E.uef",
+    "publisher": "Epic",
+    "path": "Epic/CastleFrankenstein_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Kingdom Of Klein",
+    "filename": "KingdomOfKlein_E.uef",
+    "publisher": "Epic",
+    "path": "Epic/KingdomOfKlein_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Quest For The Holy Grail",
+    "filename": "QuestForTheHolyGrail_E.uef",
+    "publisher": "Epic",
+    "path": "Epic/QuestForTheHolyGrail_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Wheel Of Fortune",
+    "filename": "WheelOfFortune_E.uef",
+    "publisher": "Epic",
+    "path": "Epic/WheelOfFortune_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "3 D Pool",
+    "filename": "3DPool_E.uef",
+    "publisher": "Firebird",
+    "path": "Firebird/3DPool_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Star Drifter",
+    "filename": "StarDrifter_E.hq.uef",
+    "publisher": "Firebird",
+    "path": "Firebird/StarDrifter_E.hq.uef",
+    "enabled": true
+  },
+  {
+    "title": "The Hacker",
+    "filename": "TheHacker_E.hq.uef",
+    "publisher": "Firebird",
+    "path": "Firebird/TheHacker_E.hq.uef",
+    "enabled": true
+  },
+  {
+    "title": "Video Classics",
+    "filename": "VideoClassics_E.hq.uef",
+    "publisher": "Firebird",
+    "path": "Firebird/VideoClassics_E.hq.uef",
+    "enabled": true
+  },
+  {
+    "title": "Superman The Game",
+    "filename": "SupermanTheGame_BE.uef",
+    "publisher": "FirstStar",
+    "path": "FirstStar/SupermanTheGame_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "Dominoes Garland",
+    "filename": "Dominoes-Garland_BE.uef",
+    "publisher": "Garland",
+    "path": "Garland/Dominoes-Garland_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "Missile Control",
+    "filename": "MissileControl_E.uef",
+    "publisher": "Gemini",
+    "path": "Gemini/MissileControl_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "T G Accordian",
+    "filename": "TG-Accordian_BE.uef",
+    "publisher": "Gemini",
+    "path": "Gemini/TG-Accordian_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "T G Backgammon",
+    "filename": "TG-Backgammon_BE.uef",
+    "publisher": "Gemini",
+    "path": "Gemini/TG-Backgammon_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "T G Gin Rummy",
+    "filename": "TG-GinRummy_BE.uef",
+    "publisher": "Gemini",
+    "path": "Gemini/TG-GinRummy_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "T G Piquet",
+    "filename": "TG-Piquet_BE.uef",
+    "publisher": "Gemini",
+    "path": "Gemini/TG-Piquet_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "Kourtyard",
+    "filename": "Kourtyard_E.uef",
+    "publisher": "Godax",
+    "path": "Godax/Kourtyard_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Skirmish",
+    "filename": "Skirmish_E.uef",
+    "publisher": "Godax",
+    "path": "Godax/Skirmish_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Greedy Dwarf",
+    "filename": "GreedyDwarf_E.uef",
+    "publisher": "Goldstar",
+    "path": "Goldstar/GreedyDwarf_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Footballer Of The Year",
+    "filename": "FootballerOfTheYear_E.uef",
+    "publisher": "Gremlin",
+    "path": "Gremlin/FootballerOfTheYear_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Hareraiser Part One",
+    "filename": "HareraiserPartOne_E.uef",
+    "publisher": "Haresoft",
+    "path": "Haresoft/HareraiserPartOne_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Evening Star",
+    "filename": "EveningStar_E.uef",
+    "publisher": "Hewson",
+    "path": "Hewson/EveningStar_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Fantasia Diamond",
+    "filename": "FantasiaDiamond_BE.uef",
+    "publisher": "Hewson",
+    "path": "Hewson/FantasiaDiamond_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "Heathrow A T C",
+    "filename": "HeathrowATC_RUN_E.uef",
+    "publisher": "Hewson",
+    "path": "Hewson/HeathrowATC_RUN_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Southern Belle",
+    "filename": "SouthernBelle_E.uef",
+    "publisher": "Hewson",
+    "path": "Hewson/SouthernBelle_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Druids Circle",
+    "filename": "DruidsCircle_E.uef",
+    "publisher": "Hollsoft",
+    "path": "Hollsoft/DruidsCircle_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Fire Island",
+    "filename": "FireIsland_E.uef",
+    "publisher": "Hollsoft",
+    "path": "Hollsoft/FireIsland_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Mission X P2",
+    "filename": "MissionXP-2_E.uef",
+    "publisher": "Hollsoft",
+    "path": "Hollsoft/MissionXP-2_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Pony Express",
+    "filename": "PonyExpress_E.uef",
+    "publisher": "Hollsoft",
+    "path": "Hollsoft/PonyExpress_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Tomb Of Death",
+    "filename": "TombOfDeath_E.uef",
+    "publisher": "Hollsoft",
+    "path": "Hollsoft/TombOfDeath_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "3 D Maze I J K",
+    "filename": "3DMaze-IJK_E.uef",
+    "publisher": "IJK",
+    "path": "IJK/3DMaze-IJK_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Caterpillar I J K",
+    "filename": "Caterpillar-IJK_E.uef",
+    "publisher": "IJK",
+    "path": "IJK/Caterpillar-IJK_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Hyperdrive",
+    "filename": "Hyperdrive_E.uef",
+    "publisher": "IJK",
+    "path": "IJK/Hyperdrive_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Invaders I J K",
+    "filename": "Invaders-IJK_E.uef",
+    "publisher": "IJK",
+    "path": "IJK/Invaders-IJK_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Peg Leg",
+    "filename": "PegLeg_E.uef",
+    "publisher": "IJK",
+    "path": "IJK/PegLeg_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Quest For Freedom",
+    "filename": "QuestForFreedom_E.uef",
+    "publisher": "IJK",
+    "path": "IJK/QuestForFreedom_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Stratobomber",
+    "filename": "Stratobomber_E.uef",
+    "publisher": "IJK",
+    "path": "IJK/Stratobomber_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Super Hangman",
+    "filename": "SuperHangman_E.uef",
+    "publisher": "IJK",
+    "path": "IJK/SuperHangman_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Ukpm",
+    "filename": "Ukpm_E.uef",
+    "publisher": "IJK",
+    "path": "IJK/Ukpm_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Bug Eyes",
+    "filename": "BugEyes_E.uef",
+    "publisher": "Icon",
+    "path": "Icon/BugEyes_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Caveman Capers",
+    "filename": "CavemanCapers_E.uef",
+    "publisher": "Icon",
+    "path": "Icon/CavemanCapers_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Drain Mania",
+    "filename": "DrainMania_E.uef",
+    "publisher": "Icon",
+    "path": "Icon/DrainMania_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Frankenstein2000",
+    "filename": "Frankenstein2000_E.uef",
+    "publisher": "Icon",
+    "path": "Icon/Frankenstein2000_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Space Station Alpha",
+    "filename": "SpaceStationAlpha_E.uef",
+    "publisher": "Icon",
+    "path": "Icon/SpaceStationAlpha_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Ultron",
+    "filename": "Ultron_E.uef",
+    "publisher": "Icon",
+    "path": "Icon/Ultron_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Warp1",
+    "filename": "Warp1_E.uef",
+    "publisher": "Icon",
+    "path": "Icon/Warp1_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Wongo",
+    "filename": "Wongo_E.uef",
+    "publisher": "Icon",
+    "path": "Icon/Wongo_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Zorakk The Conqueror",
+    "filename": "ZorakkTheConqueror_E.uef",
+    "publisher": "Icon",
+    "path": "Icon/ZorakkTheConqueror_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Mikie",
+    "filename": "Mikie_E.uef",
+    "publisher": "Imagine",
+    "path": "Imagine/Mikie_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Pedro",
+    "filename": "Pedro_E.uef",
+    "publisher": "Imagine",
+    "path": "Imagine/Pedro_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Yie Ar Kung Fu2",
+    "filename": "YieArKungFu2_E.uef",
+    "publisher": "Imagine",
+    "path": "Imagine/YieArKungFu2_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Yie Ar Kung Fu",
+    "filename": "YieArKungFu_E.uef",
+    "publisher": "Imagine",
+    "path": "Imagine/YieArKungFu_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Clogger",
+    "filename": "Clogger_E.uef",
+    "publisher": "Impact",
+    "path": "Impact/Clogger_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Zenon",
+    "filename": "Zenon_E.uef",
+    "publisher": "Impact",
+    "path": "Impact/Zenon_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Adventure Creator Side1",
+    "filename": "AdventureCreator-Side1_BE.uef",
+    "publisher": "Incentive",
+    "path": "Incentive/AdventureCreator-Side1_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "Adventure Creator Side2",
+    "filename": "AdventureCreator-Side2_BE.uef",
+    "publisher": "Incentive",
+    "path": "Incentive/AdventureCreator-Side2_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "Confuzion",
+    "filename": "Confuzion_BE.uef",
+    "publisher": "Incentive",
+    "path": "Incentive/Confuzion_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "Ket Trilogy",
+    "filename": "KetTrilogy_BE.uef",
+    "publisher": "Incentive",
+    "path": "Incentive/KetTrilogy_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "Millionaire",
+    "filename": "Millionaire_E.uef",
+    "publisher": "Incentive",
+    "path": "Incentive/Millionaire_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Tales Of The Arabian Nights",
+    "filename": "TalesOfTheArabianNights_BE.uef",
+    "publisher": "Interceptor",
+    "path": "Interceptor/TalesOfTheArabianNights_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "Bridge Master Tape A",
+    "filename": "BridgeMaster-TapeA_BE.uef",
+    "publisher": "JKeyne",
+    "path": "JKeyne/BridgeMaster-TapeA_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "Bridge Master Tape B",
+    "filename": "BridgeMaster-TapeB_BE.uef",
+    "publisher": "JKeyne",
+    "path": "JKeyne/BridgeMaster-TapeB_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "Bridge Master Tape C",
+    "filename": "BridgeMaster-TapeC_BE.uef",
+    "publisher": "JKeyne",
+    "path": "JKeyne/BridgeMaster-TapeC_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "Bridge Master Tape D",
+    "filename": "BridgeMaster-TapeD_BE.uef",
+    "publisher": "JKeyne",
+    "path": "JKeyne/BridgeMaster-TapeD_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "Battlezone Six",
+    "filename": "BattlezoneSix_E.uef",
+    "publisher": "Kansas",
+    "path": "Kansas/BattlezoneSix_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Caveman_ S T A R L O A D",
+    "filename": "Caveman_STARLOAD_RUN_E.uef",
+    "publisher": "Kansas",
+    "path": "Kansas/Caveman_STARLOAD_RUN_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Dracula Island",
+    "filename": "DraculaIsland_E.uef",
+    "publisher": "Kansas",
+    "path": "Kansas/DraculaIsland_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Ferryman Awaits",
+    "filename": "FerrymanAwaits_E.uef",
+    "publisher": "Kansas",
+    "path": "Kansas/FerrymanAwaits_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Fighter Pilot",
+    "filename": "FighterPilot_E.uef",
+    "publisher": "Kansas",
+    "path": "Kansas/FighterPilot_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Loony Loco",
+    "filename": "LoonyLoco_E.uef",
+    "publisher": "Kansas",
+    "path": "Kansas/LoonyLoco_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Maniac Mower",
+    "filename": "ManiacMower_E.uef",
+    "publisher": "Kansas",
+    "path": "Kansas/ManiacMower_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Moon Buggy",
+    "filename": "MoonBuggy_E.uef",
+    "publisher": "Kansas",
+    "path": "Kansas/MoonBuggy_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Pinball Arcade",
+    "filename": "PinballArcade_E.uef",
+    "publisher": "Kansas",
+    "path": "Kansas/PinballArcade_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Revenge Of Zor",
+    "filename": "RevengeOfZor_E.uef",
+    "publisher": "Kansas",
+    "path": "Kansas/RevengeOfZor_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Reversi Kansas",
+    "filename": "Reversi-Kansas_E.uef",
+    "publisher": "Kansas",
+    "path": "Kansas/Reversi-Kansas_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Ring Of Time",
+    "filename": "RingOfTime_E.uef",
+    "publisher": "Kansas",
+    "path": "Kansas/RingOfTime_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Snake Kansas",
+    "filename": "Snake-Kansas_E.uef",
+    "publisher": "Kansas",
+    "path": "Kansas/Snake-Kansas_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Plane Crash",
+    "filename": "PlaneCrash_BE.uef",
+    "publisher": "Labyrinth",
+    "path": "Labyrinth/PlaneCrash_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "Hex",
+    "filename": "Hex_RUN_BE.uef",
+    "publisher": "Larsoft",
+    "path": "Larsoft/Hex_RUN_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "Puppet Man",
+    "filename": "PuppetMan_RUN_BE.uef",
+    "publisher": "Larsoft",
+    "path": "Larsoft/PuppetMan_RUN_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "R O S1 The Prophecy",
+    "filename": "ROS1-TheProphecy_RUN_BE.uef",
+    "publisher": "Larsoft",
+    "path": "Larsoft/ROS1-TheProphecy_RUN_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "R O S2 Return Of The Warrior",
+    "filename": "ROS2-ReturnOfTheWarrior_RUN_BE.uef",
+    "publisher": "Larsoft",
+    "path": "Larsoft/ROS2-ReturnOfTheWarrior_RUN_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "The Nine Dancers",
+    "filename": "TheNineDancers_RUN_BE.uef",
+    "publisher": "Larsoft",
+    "path": "Larsoft/TheNineDancers_RUN_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "Wychwood",
+    "filename": "Wychwood_RUN_BE.uef",
+    "publisher": "Larsoft",
+    "path": "Larsoft/Wychwood_RUN_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "Annabel Gray Pt1",
+    "filename": "AnnabelGray-Pt1_BE.uef",
+    "publisher": "Lee",
+    "path": "Lee/AnnabelGray-Pt1_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "Annabel Gray Pt2",
+    "filename": "AnnabelGray-Pt2_BE.uef",
+    "publisher": "Lee",
+    "path": "Lee/AnnabelGray-Pt2_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "In Search Of Atahaulpa Pt1",
+    "filename": "InSearchOfAtahaulpa-Pt1_BE.uef",
+    "publisher": "Lee",
+    "path": "Lee/InSearchOfAtahaulpa-Pt1_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "In Search Of Atahaulpa Pt2",
+    "filename": "InSearchOfAtahaulpa-Pt2_BE.uef",
+    "publisher": "Lee",
+    "path": "Lee/InSearchOfAtahaulpa-Pt2_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "Braz",
+    "filename": "Braz_E.uef",
+    "publisher": "Livewire",
+    "path": "Livewire/Braz_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Fruit Catcher",
+    "filename": "FruitCatcher_BE.uef",
+    "publisher": "Livewire",
+    "path": "Livewire/FruitCatcher_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "X O R Procyon",
+    "filename": "XOR-Procyon_E.uef",
+    "publisher": "Logotron",
+    "path": "Logotron/XOR-Procyon_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "X O R",
+    "filename": "XOR_E.uef",
+    "publisher": "Logotron",
+    "path": "Logotron/XOR_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "First Moves Chess",
+    "filename": "FirstMovesChess_BE.uef",
+    "publisher": "Longman",
+    "path": "Longman/FirstMovesChess_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "Battle Zone2000",
+    "filename": "BattleZone2000_BE.uef",
+    "publisher": "Lothlorien",
+    "path": "Lothlorien/BattleZone2000_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "Johnny Reb",
+    "filename": "JohnnyReb_BE.uef",
+    "publisher": "Lothlorien",
+    "path": "Lothlorien/JohnnyReb_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "Paras",
+    "filename": "Paras_BE.uef",
+    "publisher": "Lothlorien",
+    "path": "Lothlorien/Paras_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "Red Coats",
+    "filename": "RedCoats_BE.uef",
+    "publisher": "Lothlorien",
+    "path": "Lothlorien/RedCoats_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "Roman Empire",
+    "filename": "RomanEmpire_BE.uef",
+    "publisher": "Lothlorien",
+    "path": "Lothlorien/RomanEmpire_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "Special Operations",
+    "filename": "SpecialOperations_BE.uef",
+    "publisher": "Lothlorien",
+    "path": "Lothlorien/SpecialOperations_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "Stolen Lamp",
+    "filename": "StolenLamp_BE.uef",
+    "publisher": "Lothlorien",
+    "path": "Lothlorien/StolenLamp_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "Waterloo",
+    "filename": "Waterloo_E.uef",
+    "publisher": "Lothlorien",
+    "path": "Lothlorien/Waterloo_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Blue Dragon",
+    "filename": "BlueDragon_RUN_BE.uef",
+    "publisher": "MP",
+    "path": "MP/BlueDragon_RUN_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "Firienwood",
+    "filename": "Firienwood_RUN_E.uef",
+    "publisher": "MP",
+    "path": "MP/Firienwood_RUN_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Sadim Castle",
+    "filename": "SadimCastle_RUN_BE.uef",
+    "publisher": "MP",
+    "path": "MP/SadimCastle_RUN_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "Survivor",
+    "filename": "Survivor_RUN_E.uef",
+    "publisher": "MP",
+    "path": "MP/Survivor_RUN_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Valley Of The Kings",
+    "filename": "ValleyOfTheKings_RUN_BE.uef",
+    "publisher": "MP",
+    "path": "MP/ValleyOfTheKings_RUN_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "Woodland Terrorearly",
+    "filename": "WoodlandTerror-early_RUN_BE.uef",
+    "publisher": "MP",
+    "path": "MP/WoodlandTerror-early_RUN_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "Woodland Terror",
+    "filename": "WoodlandTerror_RUN_BE.uef",
+    "publisher": "MP",
+    "path": "MP/WoodlandTerror_RUN_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "Inu",
+    "filename": "Inu_BE.uef",
+    "publisher": "MRJ",
+    "path": "MRJ/Inu_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "Diamond Mine M R M",
+    "filename": "DiamondMine-MRM_E.uef",
+    "publisher": "MRM",
+    "path": "MRM/DiamondMine-MRM_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Nightmare Maze M R M",
+    "filename": "NightmareMaze-MRM_E.uef",
+    "publisher": "MRM",
+    "path": "MRM/NightmareMaze-MRM_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Block Busters Gold Run",
+    "filename": "BlockBustersGoldRun_E.uef",
+    "publisher": "Macsen",
+    "path": "Macsen/BlockBustersGoldRun_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Block Busters",
+    "filename": "BlockBusters_E.uef",
+    "publisher": "Macsen",
+    "path": "Macsen/BlockBusters_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Bullseye",
+    "filename": "Bullseye_E.uef",
+    "publisher": "Macsen",
+    "path": "Macsen/Bullseye_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Treasure Hunt",
+    "filename": "TreasureHunt_E.uef",
+    "publisher": "Macsen",
+    "path": "Macsen/TreasureHunt_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Locks Of Luck",
+    "filename": "LocksOfLuck_E.uef",
+    "publisher": "Magus",
+    "path": "Magus/LocksOfLuck_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Icarus",
+    "filename": "Icarus_E.uef",
+    "publisher": "Mandarin",
+    "path": "Mandarin/Icarus_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Brian Jacks Superstar Challenge",
+    "filename": "BrianJacksSuperstarChallenge_E.uef",
+    "publisher": "Martech",
+    "path": "Martech/BrianJacksSuperstarChallenge_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Eddie Kidd Jump Challenge",
+    "filename": "EddieKiddJumpChallenge_E.uef",
+    "publisher": "Martech",
+    "path": "Martech/EddieKiddJumpChallenge_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Galactic Patrol",
+    "filename": "GalacticPatrol_E.uef",
+    "publisher": "Mastertronic",
+    "path": "Mastertronic/GalacticPatrol_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Kane",
+    "filename": "Kane_BE.uef",
+    "publisher": "Mastertronic",
+    "path": "Mastertronic/Kane_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "Spectipede",
+    "filename": "Spectipede_E.uef",
+    "publisher": "Mastertronic",
+    "path": "Mastertronic/Spectipede_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Starmaze2",
+    "filename": "Starmaze2_E.uef",
+    "publisher": "Mastertronic",
+    "path": "Mastertronic/Starmaze2_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Vegas Jackpot",
+    "filename": "VegasJackpot_BE.uef",
+    "publisher": "Mastertronic",
+    "path": "Mastertronic/VegasJackpot_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "Walk The Plank",
+    "filename": "WalkThePlank_E.uef",
+    "publisher": "Mastertronic",
+    "path": "Mastertronic/WalkThePlank_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Classic Adventure",
+    "filename": "ClassicAdventure_RUN_BE.uef",
+    "publisher": "MelbourneHouse",
+    "path": "MelbourneHouse/ClassicAdventure_RUN_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "Denis Through The Drinking Glass",
+    "filename": "DenisThroughTheDrinkingGlass_E.uef",
+    "publisher": "MelbourneHouse",
+    "path": "MelbourneHouse/DenisThroughTheDrinkingGlass_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Dodgy Geezers",
+    "filename": "DodgyGeezers_BE.uef",
+    "publisher": "MelbourneHouse",
+    "path": "MelbourneHouse/DodgyGeezers_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "Gyroscope",
+    "filename": "Gyroscope_E.uef",
+    "publisher": "MelbourneHouse",
+    "path": "MelbourneHouse/Gyroscope_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Hampstead",
+    "filename": "Hampstead_BE.uef",
+    "publisher": "MelbourneHouse",
+    "path": "MelbourneHouse/Hampstead_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "Terrormolinos",
+    "filename": "Terrormolinos_BE.uef",
+    "publisher": "MelbourneHouse",
+    "path": "MelbourneHouse/Terrormolinos_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "Way Of The Exploding Fist V2",
+    "filename": "WayOfTheExplodingFistV2_E.hq.uef",
+    "publisher": "MelbourneHouse",
+    "path": "MelbourneHouse/WayOfTheExplodingFistV2_E.hq.uef",
+    "enabled": true
+  },
+  {
+    "title": "Erbert",
+    "filename": "Erbert_E.uef",
+    "publisher": "Microbyte",
+    "path": "Microbyte/Erbert_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Pinball Microbyte",
+    "filename": "Pinball-Microbyte_E.uef",
+    "publisher": "Microbyte",
+    "path": "Microbyte/Pinball-Microbyte_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Arena3000",
+    "filename": "Arena3000_E.uef",
+    "publisher": "Microdeal",
+    "path": "Microdeal/Arena3000_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Space Shuttle Microdeal",
+    "filename": "SpaceShuttle-Microdeal_E.uef",
+    "publisher": "Microdeal",
+    "path": "Microdeal/SpaceShuttle-Microdeal_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Adventure Micropower",
+    "filename": "Adventure-Micropower_E.uef",
+    "publisher": "Micropower",
+    "path": "Micropower/Adventure-Micropower_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Bandits At3 O Clock",
+    "filename": "BanditsAt3OClock_E.uef",
+    "publisher": "Micropower",
+    "path": "Micropower/BanditsAt3OClock_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Bumble Bee",
+    "filename": "BumbleBee_E.uef",
+    "publisher": "Micropower",
+    "path": "Micropower/BumbleBee_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Chess Micropower",
+    "filename": "Chess-Micropower_E.uef",
+    "publisher": "Micropower",
+    "path": "Micropower/Chess-Micropower_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Croaker",
+    "filename": "Croaker_E.uef",
+    "publisher": "Micropower",
+    "path": "Micropower/Croaker_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Cybertron Mission",
+    "filename": "CybertronMission_E.uef",
+    "publisher": "Micropower",
+    "path": "Micropower/CybertronMission_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Danger U X B",
+    "filename": "DangerUXB_E.uef",
+    "publisher": "Micropower",
+    "path": "Micropower/DangerUXB_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Electron Invaders",
+    "filename": "ElectronInvaders_E.uef",
+    "publisher": "Micropower",
+    "path": "Micropower/ElectronInvaders_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Escape From Moonbase Alpha",
+    "filename": "EscapeFromMoonbaseAlpha_E.uef",
+    "publisher": "Micropower",
+    "path": "Micropower/EscapeFromMoonbaseAlpha_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Felix And The Fruit Monsters",
+    "filename": "FelixAndTheFruitMonsters_E.uef",
+    "publisher": "Micropower",
+    "path": "Micropower/FelixAndTheFruitMonsters_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Felix In The Factory",
+    "filename": "FelixInTheFactory_E.uef",
+    "publisher": "Micropower",
+    "path": "Micropower/FelixInTheFactory_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Felix Meets The Evil Weevils",
+    "filename": "FelixMeetsTheEvilWeevils_E.uef",
+    "publisher": "Micropower",
+    "path": "Micropower/FelixMeetsTheEvilWeevils_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Frenzy",
+    "filename": "Frenzy_E.uef",
+    "publisher": "Micropower",
+    "path": "Micropower/Frenzy_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Galactic Commander",
+    "filename": "GalacticCommander_E.uef",
+    "publisher": "Micropower",
+    "path": "Micropower/GalacticCommander_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Gauntlet M M R R",
+    "filename": "Gauntlet-MMRR_E.uef",
+    "publisher": "Micropower",
+    "path": "Micropower/Gauntlet-MMRR_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Gauntlet",
+    "filename": "Gauntlet_E.uef",
+    "publisher": "Micropower",
+    "path": "Micropower/Gauntlet_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Ghouls",
+    "filename": "Ghouls_E.uef",
+    "publisher": "Micropower",
+    "path": "Micropower/Ghouls_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Imogen",
+    "filename": "Imogen_E.uef",
+    "publisher": "Micropower",
+    "path": "Micropower/Imogen_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Intergalactic Trader",
+    "filename": "IntergalacticTrader_E.uef",
+    "publisher": "Micropower",
+    "path": "Micropower/IntergalacticTrader_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Jet Power Jack",
+    "filename": "JetPowerJack_E.uef",
+    "publisher": "Micropower",
+    "path": "Micropower/JetPowerJack_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Killer Gorilla",
+    "filename": "KillerGorilla_E.uef",
+    "publisher": "Micropower",
+    "path": "Micropower/KillerGorilla_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Moon Raider",
+    "filename": "MoonRaider_E.uef",
+    "publisher": "Micropower",
+    "path": "Micropower/MoonRaider_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Positron",
+    "filename": "Positron_E.uef",
+    "publisher": "Micropower",
+    "path": "Micropower/Positron_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Rubble Trouble",
+    "filename": "RubbleTrouble_E.uef",
+    "publisher": "Micropower",
+    "path": "Micropower/RubbleTrouble_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Stock Car",
+    "filename": "StockCar_E.uef",
+    "publisher": "Micropower",
+    "path": "Micropower/StockCar_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Swag",
+    "filename": "Swag_E.uef",
+    "publisher": "Micropower",
+    "path": "Micropower/Swag_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Swoop",
+    "filename": "Swoop_E.uef",
+    "publisher": "Micropower",
+    "path": "Micropower/Swoop_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "The Mine",
+    "filename": "TheMine_E.uef",
+    "publisher": "Micropower",
+    "path": "Micropower/TheMine_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Spitfire40",
+    "filename": "Spitfire40_E.uef",
+    "publisher": "Mirrorsoft",
+    "path": "Mirrorsoft/Spitfire40_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Strike Force Harrier",
+    "filename": "StrikeForceHarrier_E.uef",
+    "publisher": "Mirrorsoft",
+    "path": "Mirrorsoft/StrikeForceHarrier_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Tetris",
+    "filename": "Tetris_BE.uef",
+    "publisher": "Mirrorsoft",
+    "path": "Mirrorsoft/Tetris_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "Hunchback Ocean",
+    "filename": "Hunchback-Ocean_E.uef",
+    "publisher": "Ocean",
+    "path": "Ocean/Hunchback-Ocean_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Bomber Baron",
+    "filename": "BomberBaron_E.uef",
+    "publisher": "Optyx",
+    "path": "Optyx/BomberBaron_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Dogfight Opus",
+    "filename": "Dogfight-Opus_E.uef",
+    "publisher": "Opus",
+    "path": "Opus/Dogfight-Opus_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "The Banished Prince",
+    "filename": "TheBanishedPrince_E.uef",
+    "publisher": "Orbit",
+    "path": "Orbit/TheBanishedPrince_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "P C W Best Of Software",
+    "filename": "PCWBestOfSoftware_E.uef",
+    "publisher": "PCW",
+    "path": "PCW/PCWBestOfSoftware_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "P C W Games Collection",
+    "filename": "PCWGamesCollection_E.uef",
+    "publisher": "PCW",
+    "path": "PCW/PCWGamesCollection_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "The Boss",
+    "filename": "TheBoss_BE.uef",
+    "publisher": "Peaksoft",
+    "path": "Peaksoft/TheBoss_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "The Boss",
+    "filename": "TheBoss_E.uef",
+    "publisher": "Peaksoft",
+    "path": "Peaksoft/TheBoss_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Joe Blade2",
+    "filename": "JoeBlade2_E.uef",
+    "publisher": "Players",
+    "path": "Players/JoeBlade2_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Joe Blade",
+    "filename": "JoeBlade_E.uef",
+    "publisher": "Players",
+    "path": "Players/JoeBlade_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Killapede",
+    "filename": "Killapede_BE.uef",
+    "publisher": "Players",
+    "path": "Players/Killapede_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "Shanghai Warriors",
+    "filename": "ShanghaiWarriors_E.uef",
+    "publisher": "Players",
+    "path": "Players/ShanghaiWarriors_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Subway Vigilante",
+    "filename": "SubwayVigilante_E.uef",
+    "publisher": "Players",
+    "path": "Players/SubwayVigilante_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Tomcat",
+    "filename": "Tomcat_BE.uef",
+    "publisher": "Players",
+    "path": "Players/Tomcat_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "Pengwyn",
+    "filename": "Pengwyn_E.uef",
+    "publisher": "Postern",
+    "path": "Postern/Pengwyn_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Xanagrams",
+    "filename": "Xanagrams_E.uef",
+    "publisher": "Postern",
+    "path": "Postern/Xanagrams_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "F S S1 Super Spy Flint",
+    "filename": "FSS1-SuperSpyFlint_BE.uef",
+    "publisher": "Potter",
+    "path": "Potter/FSS1-SuperSpyFlint_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "F S S2 Return Of Flint",
+    "filename": "FSS2-ReturnOfFlint_BE.uef",
+    "publisher": "Potter",
+    "path": "Potter/FSS2-ReturnOfFlint_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "F S S3 Flint Strikes Back",
+    "filename": "FSS3-FlintStrikesBack_BE.uef",
+    "publisher": "Potter",
+    "path": "Potter/FSS3-FlintStrikesBack_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "Galadriel In Distress",
+    "filename": "GaladrielInDistress_BE.uef",
+    "publisher": "Potter",
+    "path": "Potter/GaladrielInDistress_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "Hexagram Of Trutania Valley",
+    "filename": "HexagramOfTrutaniaValley_BE.uef",
+    "publisher": "Potter",
+    "path": "Potter/HexagramOfTrutaniaValley_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "Inner Space",
+    "filename": "InnerSpace_BE.uef",
+    "publisher": "Potter",
+    "path": "Potter/InnerSpace_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "Philosophers Stone",
+    "filename": "PhilosophersStone_BE.uef",
+    "publisher": "Potter",
+    "path": "Potter/PhilosophersStone_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "Staff Of Law",
+    "filename": "StaffOfLaw_BE.uef",
+    "publisher": "Potter",
+    "path": "Potter/StaffOfLaw_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "Stranded On Iloofrax",
+    "filename": "StrandedOnIloofrax_BE.uef",
+    "publisher": "Potter",
+    "path": "Potter/StrandedOnIloofrax_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "Twin Orbs Of Aalinor",
+    "filename": "TwinOrbsOfAalinor_RUN_BE.uef",
+    "publisher": "Potter",
+    "path": "Potter/TwinOrbsOfAalinor_RUN_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "Hercules",
+    "filename": "Hercules_BE.uef",
+    "publisher": "PowerHouse",
+    "path": "PowerHouse/Hercules_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "Mexico86 Finals",
+    "filename": "Mexico86Finals_E.uef",
+    "publisher": "Qualsoft",
+    "path": "Qualsoft/Mexico86Finals_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Mexico86 Qualifiers",
+    "filename": "Mexico86Qualifiers_E.uef",
+    "publisher": "Qualsoft",
+    "path": "Qualsoft/Mexico86Qualifiers_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Soccer Supremo",
+    "filename": "SoccerSupremo_E.uef",
+    "publisher": "Qualsoft",
+    "path": "Qualsoft/SoccerSupremo_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Gatecrasher",
+    "filename": "Gatecrasher_E.uef",
+    "publisher": "Quicksilva",
+    "path": "Quicksilva/Gatecrasher_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Mined Out",
+    "filename": "MinedOut_E.uef",
+    "publisher": "Quicksilva",
+    "path": "Quicksilva/MinedOut_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "English Civil War",
+    "filename": "EnglishCivilWar_E.uef",
+    "publisher": "RedShift",
+    "path": "RedShift/EnglishCivilWar_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "American Suds Pt1",
+    "filename": "AmericanSuds-Pt1_BE.uef",
+    "publisher": "Riverdale",
+    "path": "Riverdale/AmericanSuds-Pt1_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "American Suds Pt2",
+    "filename": "AmericanSuds-Pt2_BE.uef",
+    "publisher": "Riverdale",
+    "path": "Riverdale/AmericanSuds-Pt2_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "American Suds Pt3",
+    "filename": "AmericanSuds-Pt3_BE.uef",
+    "publisher": "Riverdale",
+    "path": "Riverdale/AmericanSuds-Pt3_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "American Suds Pt4",
+    "filename": "AmericanSuds-Pt4_BE.uef",
+    "publisher": "Riverdale",
+    "path": "Riverdale/AmericanSuds-Pt4_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "Suds Pt1",
+    "filename": "Suds-Pt1_BE.uef",
+    "publisher": "Riverdale",
+    "path": "Riverdale/Suds-Pt1_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "Suds Pt2",
+    "filename": "Suds-Pt2_BE.uef",
+    "publisher": "Riverdale",
+    "path": "Riverdale/Suds-Pt2_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "Suds Pt3",
+    "filename": "Suds-Pt3_BE.uef",
+    "publisher": "Riverdale",
+    "path": "Riverdale/Suds-Pt3_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "Suds Pt4",
+    "filename": "Suds-Pt4_BE.uef",
+    "publisher": "Riverdale",
+    "path": "Riverdale/Suds-Pt4_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "Blood Of The Mutineers",
+    "filename": "BloodOfTheMutineers_E.uef",
+    "publisher": "Robico",
+    "path": "Robico/BloodOfTheMutineers_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Project Thesius",
+    "filename": "ProjectThesius_E.uef",
+    "publisher": "Robico",
+    "path": "Robico/ProjectThesius_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "R H T1 Rick Hanson",
+    "filename": "RHT1-RickHanson_E.uef",
+    "publisher": "Robico",
+    "path": "Robico/RHT1-RickHanson_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "R H T2 Project Thesius",
+    "filename": "RHT2-ProjectThesius_E.uef",
+    "publisher": "Robico",
+    "path": "Robico/RHT2-ProjectThesius_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "R H T3 Myorem",
+    "filename": "RHT3-Myorem_E.uef",
+    "publisher": "Robico",
+    "path": "Robico/RHT3-Myorem_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Rick Hanson",
+    "filename": "RickHanson_E.uef",
+    "publisher": "Robico",
+    "path": "Robico/RickHanson_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "The Hunt Search For Shauna",
+    "filename": "TheHuntSearchForShauna_E.uef",
+    "publisher": "Robico",
+    "path": "Robico/TheHuntSearchForShauna_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Village Of Lost Souls R R",
+    "filename": "VillageOfLostSouls-RR_E.uef",
+    "publisher": "Robico",
+    "path": "Robico/VillageOfLostSouls-RR_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Alien Break In",
+    "filename": "AlienBreakIn_E.uef",
+    "publisher": "Romik",
+    "path": "Romik/AlienBreakIn_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Atom Smasher",
+    "filename": "AtomSmasher_E.uef",
+    "publisher": "Romik",
+    "path": "Romik/AtomSmasher_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Birds Of Prey",
+    "filename": "BirdsOfPrey_E.uef",
+    "publisher": "Romik",
+    "path": "Romik/BirdsOfPrey_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Caterpillar Romik",
+    "filename": "Caterpillar-Romik_E.uef",
+    "publisher": "Romik",
+    "path": "Romik/Caterpillar-Romik_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Shark Attack",
+    "filename": "SharkAttack_E.uef",
+    "publisher": "Romik",
+    "path": "Romik/SharkAttack_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Weetabix Versus The Titchies",
+    "filename": "WeetabixVersusTheTitchies_BE.uef",
+    "publisher": "Romik",
+    "path": "Romik/WeetabixVersusTheTitchies_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "Castle Of Skull Lord Bugged",
+    "filename": "CastleOfSkullLord-Bugged_E.uef",
+    "publisher": "Samurai",
+    "path": "Samurai/CastleOfSkullLord-Bugged_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Empire",
+    "filename": "Empire_BE.uef",
+    "publisher": "Shards",
+    "path": "Shards/Empire_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "Galilee",
+    "filename": "Galilee_BE.uef",
+    "publisher": "Shards",
+    "path": "Shards/Galilee_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "Mystery Of The Java Star",
+    "filename": "MysteryOfTheJavaStar_E.uef",
+    "publisher": "Shards",
+    "path": "Shards/MysteryOfTheJavaStar_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Pettigrews Diary",
+    "filename": "PettigrewsDiary_E.uef",
+    "publisher": "Shards",
+    "path": "Shards/PettigrewsDiary_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Whoopsy",
+    "filename": "Whoopsy_BE.uef",
+    "publisher": "Shards",
+    "path": "Shards/Whoopsy_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "Woodbury End",
+    "filename": "WoodburyEnd_BE.uef",
+    "publisher": "Shards",
+    "path": "Shards/WoodburyEnd_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "Chuckulus",
+    "filename": "Chuckulus-Electron-V1-0.uef",
+    "publisher": "SnuggsySoft",
+    "path": "SnuggsySoft/Chuckulus-Electron-V1-0.uef",
+    "enabled": true
+  },
+  {
+    "title": "Eye Of Zolton",
+    "filename": "EyeOfZolton_BE.uef",
+    "publisher": "Softek",
+    "path": "Softek/EyeOfZolton_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "Five Stones Of Anadon",
+    "filename": "FiveStonesOfAnadon_BE.uef",
+    "publisher": "Softek",
+    "path": "Softek/FiveStonesOfAnadon_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "Gisburnes Castle",
+    "filename": "GisburnesCastle_E.uef",
+    "publisher": "SoftwareCommunications",
+    "path": "SoftwareCommunications/GisburnesCastle_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Beeb Trek",
+    "filename": "BeebTrek_BE.uef",
+    "publisher": "SoftwareForAll",
+    "path": "SoftwareForAll/BeebTrek_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "Row Of Four",
+    "filename": "RowOfFour_BE.uef",
+    "publisher": "SoftwareForAll",
+    "path": "SoftwareForAll/RowOfFour_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "3 D Bomb Alley",
+    "filename": "3DBombAlley_E.uef",
+    "publisher": "SoftwareInvasion",
+    "path": "SoftwareInvasion/3DBombAlley_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Blitzkrieg",
+    "filename": "Blitzkrieg_E.uef",
+    "publisher": "SoftwareInvasion",
+    "path": "SoftwareInvasion/Blitzkrieg_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Chip Buster",
+    "filename": "ChipBuster_E.hq.uef",
+    "publisher": "SoftwareInvasion",
+    "path": "SoftwareInvasion/ChipBuster_E.hq.uef",
+    "enabled": true
+  },
+  {
+    "title": "Gunsmoke",
+    "filename": "Gunsmoke_E.uef",
+    "publisher": "SoftwareInvasion",
+    "path": "SoftwareInvasion/Gunsmoke_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Stairway To Hell",
+    "filename": "StairwayToHell_E.hq.uef",
+    "publisher": "SoftwareInvasion",
+    "path": "SoftwareInvasion/StairwayToHell_E.hq.uef",
+    "enabled": true
+  },
+  {
+    "title": "Super Pool",
+    "filename": "SuperPool_E.uef",
+    "publisher": "SoftwareInvasion",
+    "path": "SoftwareInvasion/SuperPool_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Vortex",
+    "filename": "Vortex_E.uef",
+    "publisher": "SoftwareInvasion",
+    "path": "SoftwareInvasion/Vortex_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Runestaff",
+    "filename": "Runestaff_E.uef",
+    "publisher": "Squaresoft",
+    "path": "Squaresoft/Runestaff_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Bun Fun",
+    "filename": "BunFun_E.uef",
+    "publisher": "Squirrelsoft",
+    "path": "Squirrelsoft/BunFun_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Supergolf",
+    "filename": "Supergolf_E.uef",
+    "publisher": "Squirrelsoft",
+    "path": "Squirrelsoft/Supergolf_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "A Question Of Sport",
+    "filename": "AQuestionOfSport_E.uef",
+    "publisher": "Superior",
+    "path": "Superior/AQuestionOfSport_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Alien Dropout",
+    "filename": "AlienDropout_E.uef",
+    "publisher": "Superior",
+    "path": "Superior/AlienDropout_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Ballistix",
+    "filename": "Ballistix_E.uef",
+    "publisher": "Superior",
+    "path": "Superior/Ballistix_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Barbarian2",
+    "filename": "Barbarian2_E.uef",
+    "publisher": "Superior",
+    "path": "Superior/Barbarian2_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Barbarian",
+    "filename": "Barbarian_E.uef",
+    "publisher": "Superior",
+    "path": "Superior/Barbarian_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Baron",
+    "filename": "Baron_E.uef",
+    "publisher": "Superior",
+    "path": "Superior/Baron_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Bone Cruncher",
+    "filename": "BoneCruncher_E.uef",
+    "publisher": "Superior",
+    "path": "Superior/BoneCruncher_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Camelot",
+    "filename": "Camelot_E.uef",
+    "publisher": "Superior",
+    "path": "Superior/Camelot_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Centibug",
+    "filename": "Centibug_E.uef",
+    "publisher": "Superior",
+    "path": "Superior/Centibug_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Chess Superior",
+    "filename": "Chess-Superior_BE.uef",
+    "publisher": "Superior",
+    "path": "Superior/Chess-Superior_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "Citadel P I A S R R",
+    "filename": "Citadel-PIASRR_E.uef",
+    "publisher": "Superior",
+    "path": "Superior/Citadel-PIASRR_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Citadel",
+    "filename": "Citadel_E.hq.uef",
+    "publisher": "Superior",
+    "path": "Superior/Citadel_E.hq.uef",
+    "enabled": true
+  },
+  {
+    "title": "Codename Droid",
+    "filename": "CodenameDroid_E.uef",
+    "publisher": "Superior",
+    "path": "Superior/CodenameDroid_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Cosmic Camouflage",
+    "filename": "CosmicCamouflage_E.uef",
+    "publisher": "Superior",
+    "path": "Superior/CosmicCamouflage_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Crazee Rider",
+    "filename": "CrazeeRider_E.uef",
+    "publisher": "Superior",
+    "path": "Superior/CrazeeRider_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Cyborg Warriors",
+    "filename": "CyborgWarriors_E.uef",
+    "publisher": "Superior",
+    "path": "Superior/CyborgWarriors_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Death Star B R R R",
+    "filename": "DeathStar-BRRR_E.uef",
+    "publisher": "Superior",
+    "path": "Superior/DeathStar-BRRR_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Death Star S C R R",
+    "filename": "DeathStar-SCRR_E.uef",
+    "publisher": "Superior",
+    "path": "Superior/DeathStar-SCRR_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Draughts Superior",
+    "filename": "Draughts-Superior_E.uef",
+    "publisher": "Superior",
+    "path": "Superior/Draughts-Superior_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Elixir",
+    "filename": "Elixir_E.uef",
+    "publisher": "Superior",
+    "path": "Superior/Elixir_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Exile",
+    "filename": "Exile_E.uef",
+    "publisher": "Superior",
+    "path": "Superior/Exile_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Firetrack",
+    "filename": "Firetrack_E.uef",
+    "publisher": "Superior",
+    "path": "Superior/Firetrack_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Fruit Machine Superior",
+    "filename": "FruitMachine-Superior_E.uef",
+    "publisher": "Superior",
+    "path": "Superior/FruitMachine-Superior_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Galaforce2",
+    "filename": "Galaforce2_E.uef",
+    "publisher": "Superior",
+    "path": "Superior/Galaforce2_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Galaforce",
+    "filename": "Galaforce_E.uef",
+    "publisher": "Superior",
+    "path": "Superior/Galaforce_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Hostages",
+    "filename": "Hostages_E.uef",
+    "publisher": "Superior",
+    "path": "Superior/Hostages_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Hyperball",
+    "filename": "Hyperball_E.uef",
+    "publisher": "Superior",
+    "path": "Superior/Hyperball_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Invaders Superior",
+    "filename": "Invaders-Superior_E.uef",
+    "publisher": "Superior",
+    "path": "Superior/Invaders-Superior_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Karate Combat S C R R",
+    "filename": "KarateCombat-SCRR_E.uef",
+    "publisher": "Superior",
+    "path": "Superior/KarateCombat-SCRR_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Killer Gorilla2 P I A S",
+    "filename": "KillerGorilla2-PIAS_E.uef",
+    "publisher": "Superior",
+    "path": "Superior/KillerGorilla2-PIAS_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Last Ninja2",
+    "filename": "LastNinja2_E.uef",
+    "publisher": "Superior",
+    "path": "Superior/LastNinja2_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Last Ninja",
+    "filename": "LastNinja_E.uef",
+    "publisher": "Superior",
+    "path": "Superior/LastNinja_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Master Break",
+    "filename": "MasterBreak_E.uef",
+    "publisher": "Superior",
+    "path": "Superior/MasterBreak_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Mr Wiz B R R R",
+    "filename": "MrWiz-BRRR_E.uef",
+    "publisher": "Superior",
+    "path": "Superior/MrWiz-BRRR_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Mr Wiz P I A S R R",
+    "filename": "MrWiz-PIASRR_E.uef",
+    "publisher": "Superior",
+    "path": "Superior/MrWiz-PIASRR_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Mr Wiz S C R R",
+    "filename": "MrWiz-SCRR_E.uef",
+    "publisher": "Superior",
+    "path": "Superior/MrWiz-SCRR_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Overdrive S C R R",
+    "filename": "Overdrive-SCRR_E.uef",
+    "publisher": "Superior",
+    "path": "Superior/Overdrive-SCRR_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Overdrive",
+    "filename": "Overdrive_E.uef",
+    "publisher": "Superior",
+    "path": "Superior/Overdrive_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Palace Of Magic P I A S R R",
+    "filename": "PalaceOfMagic-PIASRR_E.uef",
+    "publisher": "Superior",
+    "path": "Superior/PalaceOfMagic-PIASRR_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Palace Of Magic",
+    "filename": "PalaceOfMagic_E.uef",
+    "publisher": "Superior",
+    "path": "Superior/PalaceOfMagic_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Percy Penguin_ B R R R",
+    "filename": "PercyPenguin_BRRR_E.uef",
+    "publisher": "Superior",
+    "path": "Superior/PercyPenguin_BRRR_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Percy Penguin",
+    "filename": "PercyPenguin_E.uef",
+    "publisher": "Superior",
+    "path": "Superior/PercyPenguin_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Percy Penguin_ P I A S R R",
+    "filename": "PercyPenguin_PIASRR_E.uef",
+    "publisher": "Superior",
+    "path": "Superior/PercyPenguin_PIASRR_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Perplexity",
+    "filename": "Perplexity_E.uef",
+    "publisher": "Superior",
+    "path": "Superior/Perplexity_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Pipeline",
+    "filename": "Pipeline_E.uef",
+    "publisher": "Superior",
+    "path": "Superior/Pipeline_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Predator",
+    "filename": "Predator_E.uef",
+    "publisher": "Superior",
+    "path": "Superior/Predator_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Quest",
+    "filename": "Quest_E.uef",
+    "publisher": "Superior",
+    "path": "Superior/Quest_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Qwak",
+    "filename": "Qwak_E.uef",
+    "publisher": "Superior",
+    "path": "Superior/Qwak_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Ravenskull P I A S R R",
+    "filename": "Ravenskull-PIASRR_E.uef",
+    "publisher": "Superior",
+    "path": "Superior/Ravenskull-PIASRR_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Ravenskull",
+    "filename": "Ravenskull_E.uef",
+    "publisher": "Superior",
+    "path": "Superior/Ravenskull_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Repton B R R R",
+    "filename": "Repton-BRRR_E.uef",
+    "publisher": "Superior",
+    "path": "Superior/Repton-BRRR_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Repton S C R R",
+    "filename": "Repton-SCRR_E.uef",
+    "publisher": "Superior",
+    "path": "Superior/Repton-SCRR_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Repton2 B R R R",
+    "filename": "Repton2-BRRR_E.uef",
+    "publisher": "Superior",
+    "path": "Superior/Repton2-BRRR_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Repton2 S C R R",
+    "filename": "Repton2-SCRR_E.uef",
+    "publisher": "Superior",
+    "path": "Superior/Repton2-SCRR_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Repton2",
+    "filename": "Repton2_E.uef",
+    "publisher": "Superior",
+    "path": "Superior/Repton2_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Repton3",
+    "filename": "Repton3_E.uef",
+    "publisher": "Superior",
+    "path": "Superior/Repton3_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Repton Around The World",
+    "filename": "ReptonAroundTheWorld_E.uef",
+    "publisher": "Superior",
+    "path": "Superior/ReptonAroundTheWorld_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Repton Infinity",
+    "filename": "ReptonInfinity_E.uef",
+    "publisher": "Superior",
+    "path": "Superior/ReptonInfinity_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Repton The Life Of",
+    "filename": "ReptonTheLifeOf_E.uef",
+    "publisher": "Superior",
+    "path": "Superior/ReptonTheLifeOf_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Repton Thru Time",
+    "filename": "ReptonThruTime_E.uef",
+    "publisher": "Superior",
+    "path": "Superior/ReptonThruTime_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Repton",
+    "filename": "Repton_E.uef",
+    "publisher": "Superior",
+    "path": "Superior/Repton_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Reversi Superior",
+    "filename": "Reversi-Superior_E.uef",
+    "publisher": "Superior",
+    "path": "Superior/Reversi-Superior_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Ricochet",
+    "filename": "Ricochet_E.uef",
+    "publisher": "Superior",
+    "path": "Superior/Ricochet_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Sim City",
+    "filename": "SimCity_E.uef",
+    "publisher": "Superior",
+    "path": "Superior/SimCity_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Smash And Grab S C R R",
+    "filename": "SmashAndGrab-SCRR_E.uef",
+    "publisher": "Superior",
+    "path": "Superior/SmashAndGrab-SCRR_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Smash And Grab",
+    "filename": "SmashAndGrab_E.uef",
+    "publisher": "Superior",
+    "path": "Superior/SmashAndGrab_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Spell Binder",
+    "filename": "SpellBinder_E.uef",
+    "publisher": "Superior",
+    "path": "Superior/SpellBinder_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Spy Cat",
+    "filename": "SpyCat_E.uef",
+    "publisher": "Superior",
+    "path": "Superior/SpyCat_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Starport",
+    "filename": "Starport_E.uef",
+    "publisher": "Superior",
+    "path": "Superior/Starport_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Stranded",
+    "filename": "Stranded_E.uef",
+    "publisher": "Superior",
+    "path": "Superior/Stranded_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Strykers Run P I A S R R",
+    "filename": "StrykersRun-PIASRR_E.uef",
+    "publisher": "Superior",
+    "path": "Superior/StrykersRun-PIASRR_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Strykers Run",
+    "filename": "StrykersRun_E.uef",
+    "publisher": "Superior",
+    "path": "Superior/StrykersRun_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Superior Soccer",
+    "filename": "SuperiorSoccer_E.uef",
+    "publisher": "Superior",
+    "path": "Superior/SuperiorSoccer_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Syncron",
+    "filename": "Syncron_E.uef",
+    "publisher": "Superior",
+    "path": "Superior/Syncron_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Tempest",
+    "filename": "Tempest_E.uef",
+    "publisher": "Superior",
+    "path": "Superior/Tempest_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Thrust P I A S R R",
+    "filename": "Thrust-PIASRR_E.uef",
+    "publisher": "Superior",
+    "path": "Superior/Thrust-PIASRR_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Thrust",
+    "filename": "Thrust_E.uef",
+    "publisher": "Superior",
+    "path": "Superior/Thrust_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Zany Kong Junior",
+    "filename": "ZanyKongJunior_E.uef",
+    "publisher": "Superior",
+    "path": "Superior/ZanyKongJunior_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "3 D Dotty P I A S R R",
+    "filename": "3DDotty-PIASRR_E.uef",
+    "publisher": "SuperiorReRelease",
+    "path": "SuperiorReRelease/3DDotty-PIASRR_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Arcadians S R R",
+    "filename": "Arcadians-SRR_E.uef",
+    "publisher": "SuperiorReRelease",
+    "path": "SuperiorReRelease/Arcadians-SRR_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Blagger P I A S R R",
+    "filename": "Blagger-PIASRR_E.uef",
+    "publisher": "SuperiorReRelease",
+    "path": "SuperiorReRelease/Blagger-PIASRR_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Bug Blaster P I A S R R",
+    "filename": "BugBlaster-PIASRR_E.uef",
+    "publisher": "SuperiorReRelease",
+    "path": "SuperiorReRelease/BugBlaster-PIASRR_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Commando P I A S R R",
+    "filename": "Commando-PIASRR_E.uef",
+    "publisher": "SuperiorReRelease",
+    "path": "SuperiorReRelease/Commando-PIASRR_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Elite S R R",
+    "filename": "Elite-SRR_E.uef",
+    "publisher": "SuperiorReRelease",
+    "path": "SuperiorReRelease/Elite-SRR_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Frak V2 P I A S R R",
+    "filename": "FrakV2-PIASRR_E.uef",
+    "publisher": "SuperiorReRelease",
+    "path": "SuperiorReRelease/FrakV2-PIASRR_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Ghouls P I A S R R",
+    "filename": "Ghouls-PIASRR_E.uef",
+    "publisher": "SuperiorReRelease",
+    "path": "SuperiorReRelease/Ghouls-PIASRR_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Guardian P I A S R R",
+    "filename": "Guardian-PIASRR_E.uef",
+    "publisher": "SuperiorReRelease",
+    "path": "SuperiorReRelease/Guardian-PIASRR_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Hopper P I A S R R",
+    "filename": "Hopper-PIASRR_E.uef",
+    "publisher": "SuperiorReRelease",
+    "path": "SuperiorReRelease/Hopper-PIASRR_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Hunchback Superior P I A S R R",
+    "filename": "Hunchback-SuperiorPIASRR_E.uef",
+    "publisher": "SuperiorReRelease",
+    "path": "SuperiorReRelease/Hunchback-SuperiorPIASRR_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Killer Gorilla P I A S R R",
+    "filename": "KillerGorilla-PIASRR_E.uef",
+    "publisher": "SuperiorReRelease",
+    "path": "SuperiorReRelease/KillerGorilla-PIASRR_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Magic Mushrooms S R R",
+    "filename": "MagicMushrooms-SRR_E.uef",
+    "publisher": "SuperiorReRelease",
+    "path": "SuperiorReRelease/MagicMushrooms-SRR_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Maze S R R",
+    "filename": "Maze-SRR_E.uef",
+    "publisher": "SuperiorReRelease",
+    "path": "SuperiorReRelease/Maze-SRR_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Meteors S R R",
+    "filename": "Meteors-SRR_E.uef",
+    "publisher": "SuperiorReRelease",
+    "path": "SuperiorReRelease/Meteors-SRR_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Monsters P I A S R R",
+    "filename": "Monsters-PIASRR_E.uef",
+    "publisher": "SuperiorReRelease",
+    "path": "SuperiorReRelease/Monsters-PIASRR_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Monsters S R R",
+    "filename": "Monsters-SRR_E.uef",
+    "publisher": "SuperiorReRelease",
+    "path": "SuperiorReRelease/Monsters-SRR_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Moonraider P I A S R R",
+    "filename": "Moonraider-PIASRR_E.uef",
+    "publisher": "SuperiorReRelease",
+    "path": "SuperiorReRelease/Moonraider-PIASRR_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Network P I A S R R",
+    "filename": "Network-PIASRR_E.uef",
+    "publisher": "SuperiorReRelease",
+    "path": "SuperiorReRelease/Network-PIASRR_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Pandemonium P I A S R R",
+    "filename": "Pandemonium-PIASRR_E.uef",
+    "publisher": "SuperiorReRelease",
+    "path": "SuperiorReRelease/Pandemonium-PIASRR_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Planetoid S R R",
+    "filename": "Planetoid-SRR_E.uef",
+    "publisher": "SuperiorReRelease",
+    "path": "SuperiorReRelease/Planetoid-SRR_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Skirmish P I A S R R",
+    "filename": "Skirmish-PIASRR_E.uef",
+    "publisher": "SuperiorReRelease",
+    "path": "SuperiorReRelease/Skirmish-PIASRR_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Snapper P I A S R R",
+    "filename": "Snapper-PIASRR_E.uef",
+    "publisher": "SuperiorReRelease",
+    "path": "SuperiorReRelease/Snapper-PIASRR_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Snooker S R R",
+    "filename": "Snooker-SRR_E.uef",
+    "publisher": "SuperiorReRelease",
+    "path": "SuperiorReRelease/Snooker-SRR_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Starship Command S R R",
+    "filename": "StarshipCommand-SRR_E.uef",
+    "publisher": "SuperiorReRelease",
+    "path": "SuperiorReRelease/StarshipCommand-SRR_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Steve Davis Snooker P I A S R R",
+    "filename": "SteveDavisSnooker-PIASRR_E.uef",
+    "publisher": "SuperiorReRelease",
+    "path": "SuperiorReRelease/SteveDavisSnooker-PIASRR_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Videos Revenge P I A S R R",
+    "filename": "VideosRevenge-PIASRR_E.uef",
+    "publisher": "SuperiorReRelease",
+    "path": "SuperiorReRelease/VideosRevenge-PIASRR_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Zalaga P I A S R R",
+    "filename": "Zalaga-PIASRR_E.uef",
+    "publisher": "SuperiorReRelease",
+    "path": "SuperiorReRelease/Zalaga-PIASRR_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Stix",
+    "filename": "Stix_E.uef",
+    "publisher": "Supersoft",
+    "path": "Supersoft/Stix_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Lazer Reflex",
+    "filename": "LazerReflex_RUN_E.uef",
+    "publisher": "Talent",
+    "path": "Talent/LazerReflex_RUN_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "West",
+    "filename": "West_RUN_E.uef",
+    "publisher": "Talent",
+    "path": "Talent/West_RUN_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Grid Iron Authors Master Copy",
+    "filename": "GridIron-AuthorsMasterCopy_BE.uef",
+    "publisher": "TopTen",
+    "path": "TopTen/GridIron-AuthorsMasterCopy_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "Grid Iron",
+    "filename": "GridIron_BE.uef",
+    "publisher": "TopTen",
+    "path": "TopTen/GridIron_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "Warehouse",
+    "filename": "Warehouse_BE.uef",
+    "publisher": "TopTen",
+    "path": "TopTen/Warehouse_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "Alphatron",
+    "filename": "Alphatron_E.uef",
+    "publisher": "Tynesoft",
+    "path": "Tynesoft/Alphatron_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Auf Wiedersehen Pet",
+    "filename": "AufWiedersehenPet_BE.uef",
+    "publisher": "Tynesoft",
+    "path": "Tynesoft/AufWiedersehenPet_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "Boulderdash",
+    "filename": "Boulderdash_E.uef",
+    "publisher": "Tynesoft",
+    "path": "Tynesoft/Boulderdash_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Bouncing Bombs",
+    "filename": "BouncingBombs_E.uef",
+    "publisher": "Tynesoft",
+    "path": "Tynesoft/BouncingBombs_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Bozo The Brave",
+    "filename": "BozoTheBrave_E.uef",
+    "publisher": "Tynesoft",
+    "path": "Tynesoft/BozoTheBrave_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Buffalo Bills Rodeo Games",
+    "filename": "BuffaloBillsRodeoGames_E.uef",
+    "publisher": "Tynesoft",
+    "path": "Tynesoft/BuffaloBillsRodeoGames_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Circus Games",
+    "filename": "CircusGames_E.uef",
+    "publisher": "Tynesoft",
+    "path": "Tynesoft/CircusGames_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Commonwealth Games",
+    "filename": "CommonwealthGames_E.uef",
+    "publisher": "Tynesoft",
+    "path": "Tynesoft/CommonwealthGames_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Cylon Invasion",
+    "filename": "CylonInvasion_E.uef",
+    "publisher": "Tynesoft",
+    "path": "Tynesoft/CylonInvasion_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Future Shock",
+    "filename": "FutureShock_E.hq.uef",
+    "publisher": "Tynesoft",
+    "path": "Tynesoft/FutureShock_E.hq.uef",
+    "enabled": true
+  },
+  {
+    "title": "Goal",
+    "filename": "Goal_E.uef",
+    "publisher": "Tynesoft",
+    "path": "Tynesoft/Goal_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Ian Bothams Test Match",
+    "filename": "IanBothamsTestMatch_E.uef",
+    "publisher": "Tynesoft",
+    "path": "Tynesoft/IanBothamsTestMatch_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Indoor Sports",
+    "filename": "IndoorSports_E.uef",
+    "publisher": "Tynesoft",
+    "path": "Tynesoft/IndoorSports_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Jet Set Willy2",
+    "filename": "JetSetWilly2_E.uef",
+    "publisher": "Tynesoft",
+    "path": "Tynesoft/JetSetWilly2_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Jet Set Willy",
+    "filename": "JetSetWilly_E.uef",
+    "publisher": "Tynesoft",
+    "path": "Tynesoft/JetSetWilly_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Kastle",
+    "filename": "Kastle_E.hq.uef",
+    "publisher": "Tynesoft",
+    "path": "Tynesoft/Kastle_E.hq.uef",
+    "enabled": true
+  },
+  {
+    "title": "Megaforce",
+    "filename": "Megaforce_E.uef",
+    "publisher": "Tynesoft",
+    "path": "Tynesoft/Megaforce_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Mouse Trap",
+    "filename": "MouseTrap_E.uef",
+    "publisher": "Tynesoft",
+    "path": "Tynesoft/MouseTrap_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Oxbridge",
+    "filename": "Oxbridge_E.uef",
+    "publisher": "Tynesoft",
+    "path": "Tynesoft/Oxbridge_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Rig Attack",
+    "filename": "RigAttack_E.uef",
+    "publisher": "Tynesoft",
+    "path": "Tynesoft/RigAttack_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Saigon",
+    "filename": "Saigon_E.uef",
+    "publisher": "Tynesoft",
+    "path": "Tynesoft/Saigon_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Savage Island Part One Tynesoft Bugged",
+    "filename": "SavageIslandPartOne-Tynesoft-Bugged_E.uef",
+    "publisher": "Tynesoft",
+    "path": "Tynesoft/SavageIslandPartOne-Tynesoft-Bugged_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Savage Island Part Two Tynesoft",
+    "filename": "SavageIslandPartTwo-Tynesoft_E.uef",
+    "publisher": "Tynesoft",
+    "path": "Tynesoft/SavageIslandPartTwo-Tynesoft_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Space Caverns",
+    "filename": "SpaceCaverns_E.uef",
+    "publisher": "Tynesoft",
+    "path": "Tynesoft/SpaceCaverns_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Spy Vs Spy",
+    "filename": "SpyVsSpy_E.hq.uef",
+    "publisher": "Tynesoft",
+    "path": "Tynesoft/SpyVsSpy_E.hq.uef",
+    "enabled": true
+  },
+  {
+    "title": "The Big K O",
+    "filename": "TheBigKO_E.uef",
+    "publisher": "Tynesoft",
+    "path": "Tynesoft/TheBigKO_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Trek I I",
+    "filename": "TrekII_E.uef",
+    "publisher": "Tynesoft",
+    "path": "Tynesoft/TrekII_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "U S Drag Racing",
+    "filename": "USDragRacing_E.uef",
+    "publisher": "Tynesoft",
+    "path": "Tynesoft/USDragRacing_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Vindaloo",
+    "filename": "Vindaloo_E.uef",
+    "publisher": "Tynesoft",
+    "path": "Tynesoft/Vindaloo_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Wetzone",
+    "filename": "Wetzone_E.uef",
+    "publisher": "Tynesoft",
+    "path": "Tynesoft/Wetzone_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Winter Olympiad",
+    "filename": "WinterOlympiad_E.uef",
+    "publisher": "Tynesoft",
+    "path": "Tynesoft/WinterOlympiad_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Winter Olympics",
+    "filename": "WinterOlympics_E.uef",
+    "publisher": "Tynesoft",
+    "path": "Tynesoft/WinterOlympics_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Beach Head",
+    "filename": "BeachHead_E.uef",
+    "publisher": "USGold",
+    "path": "USGold/BeachHead_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Crystal Castles",
+    "filename": "CrystalCastles_E.uef",
+    "publisher": "USGold",
+    "path": "USGold/CrystalCastles_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Impossible Mission",
+    "filename": "ImpossibleMission_E.uef",
+    "publisher": "USGold",
+    "path": "USGold/ImpossibleMission_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Kayleth",
+    "filename": "Kayleth_E.uef",
+    "publisher": "USGold",
+    "path": "USGold/Kayleth_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Rebel Planet",
+    "filename": "RebelPlanet_E.uef",
+    "publisher": "USGold",
+    "path": "USGold/RebelPlanet_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "S C Dicer",
+    "filename": "SC-Dicer_E.uef",
+    "publisher": "Unreleased",
+    "path": "Unreleased/SC-Dicer_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "S C Fortune Valley",
+    "filename": "SC-FortuneValley_E.uef",
+    "publisher": "Unreleased",
+    "path": "Unreleased/SC-FortuneValley_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "S C Hi Lo",
+    "filename": "SC-HiLo_E.uef",
+    "publisher": "Unreleased",
+    "path": "Unreleased/SC-HiLo_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "S C Lost Treasure Of King Raybon",
+    "filename": "SC-LostTreasureOfKingRaybon_E.uef",
+    "publisher": "Unreleased",
+    "path": "Unreleased/SC-LostTreasureOfKingRaybon_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "S C Search For Princess Lavinia",
+    "filename": "SC-SearchForPrincessLavinia_E.uef",
+    "publisher": "Unreleased",
+    "path": "Unreleased/SC-SearchForPrincessLavinia_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "S C Snowball",
+    "filename": "SC-Snowball_E.uef",
+    "publisher": "Unreleased",
+    "path": "Unreleased/SC-Snowball_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "S C Super Hanger",
+    "filename": "SC-SuperHanger_E.uef",
+    "publisher": "Unreleased",
+    "path": "Unreleased/SC-SuperHanger_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "S C Wizard Adventure",
+    "filename": "SC-WizardAdventure_E.uef",
+    "publisher": "Unreleased",
+    "path": "Unreleased/SC-WizardAdventure_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Sea Queen",
+    "filename": "SeaQueen_BE.uef",
+    "publisher": "Unreleased",
+    "path": "Unreleased/SeaQueen_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "Bugs",
+    "filename": "Bugs_E.uef",
+    "publisher": "Virgin",
+    "path": "Virgin/Bugs_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Jungle Jive",
+    "filename": "JungleJive_E.uef",
+    "publisher": "Virgin",
+    "path": "Virgin/JungleJive_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Dare Devil Denis",
+    "filename": "DareDevilDenis_E.uef",
+    "publisher": "Visions",
+    "path": "Visions/DareDevilDenis_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Pengi",
+    "filename": "Pengi_E.uef",
+    "publisher": "Visions",
+    "path": "Visions/Pengi_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Snooker Visions",
+    "filename": "Snooker-Visions_RUN_E.uef",
+    "publisher": "Visions",
+    "path": "Visions/Snooker-Visions_RUN_E.uef",
+    "enabled": true
+  },
+  {
+    "title": "Five Doctors",
+    "filename": "FiveDoctors_BE.uef",
+    "publisher": "Wgames",
+    "path": "Wgames/FiveDoctors_BE.uef",
+    "enabled": true
+  },
+  {
+    "title": "Golf Yes Software",
+    "filename": "Golf-YesSoftware_BE.uef",
+    "publisher": "Yes",
+    "path": "Yes/Golf-YesSoftware_BE.uef",
+    "enabled": true
+  }
+]

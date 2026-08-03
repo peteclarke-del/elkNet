@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Browse software available through the ElkWiFi network archive.">
+    <title>elkNet — Acorn Electron software over the network</title>
+    <link rel="stylesheet" href="/styles.css">
+  </head>
+  <body>
+    <header>
+      <p class="eyebrow">ACORN ELECTRON · ONLINE</p>
+      <h1>elk<span>Net</span></h1>
+      <p class="intro">A new home for software delivered directly to the ElkWiFi cartridge.</p>
+    </header>
+    <main>
+      <section class="catalogue" aria-labelledby="catalogue-title">
+        <div>
+          <p class="eyebrow">UEF ARCHIVE</p>
+          <h2 id="catalogue-title">Software catalogue</h2>
+        </div>
+        <label>
+          <span class="visually-hidden">Search software</span>
+          <input id="search" type="search" placeholder="Search titles or publishers…" autocomplete="off">
+        </label>
+        <p id="status" role="status">Loading catalogue…</p>
+        <div class="catalogue-head" role="row" aria-label="Sort catalogue">
+          <button class="sort-button" type="button" data-sort="title">Title <span class="sort-arrow" aria-hidden="true"></span></button>
+          <button class="sort-button" type="button" data-sort="publisher">Publisher <span class="sort-arrow" aria-hidden="true"></span></button>
+          <button class="sort-button download-heading" type="button" data-sort="enabled" aria-label="Sort by download availability">Download <span class="sort-arrow" aria-hidden="true"></span></button>
+        </div>
+        <ol id="titles" class="titles"></ol>
+      </section>
+      <aside>
+        <p class="eyebrow">ON YOUR ELECTRON</p>
+        <code>*MENU</code>
+        <p>The original command remains the front door. Existing cartridges can keep using the familiar flow.</p>
+      </aside>
+    </main>
+    <footer>Built for real hardware, useful in a modern browser.</footer>
+    <script type="module" src="/app.js"></script>
+  </body>
+</html>
